@@ -1,4 +1,4 @@
-# Regler formattage et affichage de la fable plus agreable
+# Fixer fables incompletes: le renard et le corbeau par exemple
 
 import streamlit as st
 from fables import *
@@ -14,16 +14,15 @@ st.set_page_config(
 
 st.title('Les Fables de La Fontaine')
 
-# ALL_FABLES = sorted(get_all_fable_titles())
-ALL_FABLES = get_all_fable_titles_for_book(1)
+ALL_FABLES = get_all_fables_titles_dict()
 
-st.write(ALL_FABLES)
+fable = st.sidebar.selectbox('Choisissez une fable', sorted(ALL_FABLES.keys()))
+
+# fable_container = st.expander(fable, True)
+fable_container = st.container()
 
 
-
-fable = st.sidebar.selectbox('Choisissez une fable', ALL_FABLES)
-
-fable_container = st.expander('Fable title here', True)
 with fable_container:
+    st.header(fable)
     st.markdown(get_fable_text(ALL_FABLES[fable]), unsafe_allow_html=True)
-    # st.write(ALL_FABLES[fable])
+    st.write(ALL_FABLES[fable])

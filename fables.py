@@ -1,6 +1,9 @@
+# Regler get_fable_text il sagit d'utiliser un find_all dans l'assignation de child_ps et de reecrire le tout en consequence
+
 import pandas as pd
 import requests
 import streamlit as st
+# Used to merge a list of dicts into a single dic as dict.update not working reliably (maybe a Py issue)
 from bs4 import BeautifulSoup
 from bs4 import *
 
@@ -12,8 +15,9 @@ def get_all_fables_titles_dict():
     
     df = pd.read_csv('fables_titles.csv', index_col=False)
     df.drop('Unnamed: 0', axis=1, inplace=True)
-    dico = df.to_dict(orient='records')
-    
+    df.set_index('title', inplace=True)
+    dico = df.to_dict()['url']
+
     return dico
 
 # Get all fables titles from a given book number n
@@ -42,8 +46,9 @@ def get_fable_text(fable_url):
     child_ps = [div.find('p') for div in parent_divs]
     child_p_texts = [p.text for p in child_ps if not(p is None)]
 
-    return child_p_texts[0]
+    # return '\n'.join(child_p_texts)
 
+    return child_p_texts[0]
         
     
     
