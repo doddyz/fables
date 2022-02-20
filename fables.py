@@ -1,11 +1,20 @@
+import pandas as pd
 import requests
 import streamlit as st
 from bs4 import BeautifulSoup
 from bs4 import *
 
-BASE_URL = 'http://www.lesfables.fr/'
+BASE_URL = 'http://www.lesfables.fr'
 
 BOOK_NUMBERS = '1 2 3 4 5 6 7 8 9 10 11 12'.split()
+
+def get_all_fables_titles_dict():
+    
+    df = pd.read_csv('fables_titles.csv', index_col=False)
+    df.drop('Unnamed: 0', axis=1, inplace=True)
+    dico = df.to_dict(orient='records')
+    
+    return dico
 
 # Get all fables titles from a given book number n
 def get_all_fable_titles_for_book(n):

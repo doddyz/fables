@@ -1,4 +1,3 @@
-# Report/resolve bug that makes get_all_fable_titles dico not to work (see update dico method in discuss.streamlit)
 # Regler formattage et affichage de la fable plus agreable
 
 import streamlit as st
@@ -7,7 +6,7 @@ from fables import *
 
 st.set_page_config(
      page_title='Ex-stream-ly Cool App',
-     page_icon='random',
+     page_icon=':fox_face:',
      layout='wide',
      initial_sidebar_state='expanded',
  )
@@ -18,7 +17,7 @@ st.title('Les Fables de La Fontaine')
 # ALL_FABLES = sorted(get_all_fable_titles())
 ALL_FABLES = get_all_fable_titles_for_book(1)
 
-# st.write(ALL_FABLES)
+st.write(ALL_FABLES)
 
 
 
