@@ -1,3 +1,4 @@
+# Regler formattage, laisser les sauts de ligne et indiquer a st de les imprimer comme sur le site (en mode vers)
 # Regler get_fable_text il sagit d'utiliser un find_all dans l'assignation de child_ps et de reecrire le tout en consequence
 
 import pandas as pd
@@ -38,17 +39,21 @@ def get_all_fable_titles():
         dico.update(get_all_fable_titles_for_book(i))
     return dico
 
-@st.cache
+# @st.cache
 def get_fable_text(fable_url):
+    child_p_texts = []
     r = requests.get(fable_url)
     soup = BeautifulSoup(r.content, 'html.parser')
     parent_divs = soup.find_all('div', class_='field-item even')
-    child_ps = [div.find('p') for div in parent_divs]
-    child_p_texts = [p.text for p in child_ps if not(p is None)]
+    child_ps = [div.find_all('p') for div in parent_divs]
+    for i,_ in enumerate(child_ps):
+        if len(child_ps[i]) > 0:
+            for j,_ in enumerate(child_ps[i]):
+                child_p_texts.append(child_ps[i][j].text)
 
-    # return '\n'.join(child_p_texts)
 
-    return child_p_texts[0]
+    return '\n'.join(child_p_texts)
+
         
     
     
