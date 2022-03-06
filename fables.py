@@ -1,5 +1,4 @@
-# Regler formattage, laisser les sauts de ligne et indiquer a st de les imprimer comme sur le site (en mode vers)
-# Regler get_fable_text il sagit d'utiliser un find_all dans l'assignation de child_ps et de reecrire le tout en consequence
+# Permettre selection de fables par livre de fables (papier crayon pour la partition)
 
 import pandas as pd
 import requests
