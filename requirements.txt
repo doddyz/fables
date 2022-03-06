@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 beautifulsoup4
 pandas
 requests
+=======
+altair
+numpy
+pandas
+pytrends
+>>>>>>> 994d83f2131475089add6d51d9ece7d9e0dc8ae8
 streamlit
