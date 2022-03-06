@@ -41,18 +41,20 @@ def get_all_fable_titles():
 
 # @st.cache
 def get_fable_text(fable_url):
+
     child_p_texts = []
     r = requests.get(fable_url)
     soup = BeautifulSoup(r.content, 'html.parser')
     parent_divs = soup.find_all('div', class_='field-item even')
     child_ps = [div.find_all('p') for div in parent_divs]
+
     for i,_ in enumerate(child_ps):
         if len(child_ps[i]) > 0:
             for j,_ in enumerate(child_ps[i]):
                 child_p_texts.append(child_ps[i][j].text)
 
-
-    return '\n'.join(child_p_texts)
+    # return child_p_texts[0].replace('\n', '<br>')
+    return '\n'.join(child_p_texts).replace('\n', '<br>')
 
         
     

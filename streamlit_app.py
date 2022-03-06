@@ -15,8 +15,9 @@ st.set_page_config(
 st.title('Les Fables de La Fontaine')
 
 ALL_FABLES = get_all_fables_titles_dict()
+ALL_FABLES_TITLES = sorted(list(ALL_FABLES.keys()))
 
-fable = st.sidebar.selectbox('Choisissez une fable', sorted(ALL_FABLES.keys()))
+fable = st.sidebar.selectbox('Choisissez une fable', ALL_FABLES_TITLES, 140)
 
 # fable_container = st.expander(fable, True)
 fable_container = st.container()
