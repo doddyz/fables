@@ -1,3 +1,4 @@
+# Debuter une version hors ligne qui charge les fables a partir des fichiers html sources
 # Permettre selection de fables par livre de fables (papier crayon pour la partition)
 
 import pandas as pd
