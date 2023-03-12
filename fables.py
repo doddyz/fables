@@ -1,61 +1,71 @@
-# Debuter une version hors ligne qui charge les fables a partir des fichiers html sources
-# Permettre selection de fables par livre de fables (papier crayon pour la partition)
+# Comments here
+import re
+from collections import defaultdict
 
-import pandas as pd
-import requests
-import streamlit as st
-# Used to merge a list of dicts into a single dic as dict.update not working reliably (maybe a Py issue)
 from bs4 import BeautifulSoup
-from bs4 import *
 
-BASE_URL = 'http://www.lesfables.fr'
+BASE_IMG_URL = 'https://www.gutenberg.org/cache/epub/56327/'
 
-BOOK_NUMBERS = '1 2 3 4 5 6 7 8 9 10 11 12'.split()
+with open('fables.html') as f:
+    soup = BeautifulSoup(f, 'html.parser')
 
-def get_all_fables_titles_dict():
+
+def fables_titles():
+    title_h3s = soup.find_all('h3')
+    return [title_h3.text for title_h3 in title_h3s]
+
+
+# La premiere image est obtenu pour la cigale et la fourmi a l'indice 4
+def get_fables_images():
     
-    df = pd.read_csv('fables_titles.csv', index_col=False)
-    df.drop('Unnamed: 0', axis=1, inplace=True)
-    df.set_index('title', inplace=True)
-    dico = df.to_dict()['url']
+    image_urls = []
+    chapter_divs = soup.find_all('div', class_='chapter')
+    for chapter_div in chapter_divs:
+        img_tag = chapter_div.find('img')
+        image_urls.append(BASE_IMG_URL + img_tag['src'])
+        
+    return image_urls[4:]
+
+
+def images_titles_dict():
+    
+    dico = defaultdict(str)
+    titles = fables_titles()
+    image_urls = get_fables_images()
+    for i, image_url in enumerate(image_urls):
+        dico[titles[i]] = image_url
 
     return dico
+        
 
-# Get all fables titles from a given book number n
-def get_all_fable_titles_for_book(n):
-    r = requests.get(BASE_URL + 'livre-' + str(n))
-    soup = BeautifulSoup(r.content, 'html.parser')
-    parent_spans = soup.find_all('span', class_='views-field views-field-title')
-    child_links = [span.find('a') for span in parent_spans]
-    child_link_texts = [link.text for link in child_links]
-    child_link_hrefs = [link['href'] for link in child_links]
 
-    return {link_text: BASE_URL + link_href for (link_text, link_href) in zip(child_link_texts, child_link_hrefs)}
+
+def get_fables():
+
+    fables = {}
+    titles = fables_titles()
     
-# @st.cache
-def get_all_fable_titles():
-    dico = {}
-    for i in BOOK_NUMBERS:
-        dico.update(get_all_fable_titles_for_book(i))
-    return dico
+    # Les fables commencent a l'index 2
+    fables_divs = soup.find_all('div', class_='poem')[2:]
 
-# @st.cache
-def get_fable_text(fable_url):
-
-    child_p_texts = []
-    r = requests.get(fable_url)
-    soup = BeautifulSoup(r.content, 'html.parser')
-    parent_divs = soup.find_all('div', class_='field-item even')
-    child_ps = [div.find_all('p') for div in parent_divs]
-
-    for i,_ in enumerate(child_ps):
-        if len(child_ps[i]) > 0:
-            for j,_ in enumerate(child_ps[i]):
-                child_p_texts.append(child_ps[i][j].text)
-
-    # return child_p_texts[0].replace('\n', '<br>')
-    return '\n'.join(child_p_texts).replace('\n', '<br>')
-
+    for i,fable in enumerate(fables_divs):
+        
+        fable_div = fables_divs[i]
+        fable_spans = fable_div.find_all('span')
+        fable_lines = [fable_span.text for fable_span in fable_spans if re.search(r'[0-9]+$', fable_span.text) is None]
+        fables[titles[i]] = fable_lines
+        
+    return fables 
+        
+        
         
     
     
+
+
+    
+
+    
+
+
+

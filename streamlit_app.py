@@ -5,7 +5,7 @@ from fables import *
 
 
 st.set_page_config(
-     page_title='Ex-stream-ly Cool App',
+     page_title='Fables de La Fontaine',
      page_icon=':fox_face:',
      layout='wide',
      initial_sidebar_state='expanded',
@@ -14,8 +14,9 @@ st.set_page_config(
 
 st.title('Les Fables de La Fontaine')
 
-ALL_FABLES = get_all_fables_titles_dict()
-ALL_FABLES_TITLES = sorted(list(ALL_FABLES.keys()))
+ALL_FABLES = get_fables()
+ALL_FABLES_TITLES = sorted(fables_titles())
+IMAGE_TITLES = images_titles_dict()
 
 fable = st.sidebar.selectbox('Choisissez une fable', ALL_FABLES_TITLES, 140)
 
@@ -24,6 +25,11 @@ fable_container = st.container()
 
 
 with fable_container:
+    
     st.header(fable)
-    st.markdown(get_fable_text(ALL_FABLES[fable]), unsafe_allow_html=True)
-    st.write(ALL_FABLES[fable])
+    
+    if IMAGE_TITLES[fable] != '':
+        st.image(IMAGE_TITLES[fable])
+        
+    st.markdown('<br>'.join(ALL_FABLES[fable]), unsafe_allow_html=True)
+    # st.write('\n'.join(ALL_FABLES[fable]))
