@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Fable de la Fontaine n° 1 du livre 10. Un homme vit une Couleuvre. Ah ! méchante, dit-il, je m’en vais faire une œuvre Agréable à tout ..." />
+<meta content="L’Homme et la Couleuvre" about="/livre-10/l-homme-et-la-couleuvre" property="dc:title" />
+<link rel="canonical" href="../node/190" />
+<link rel="canonical" href="../node/190" />
+<link rel="shortlink" href="../node/190" />
+  <title>L’Homme et la Couleuvre - Les Fables</title>
+  <link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_e7qj41GnjxKpIpMPFuVmhMpkkXUS5XLPoQ3MoViceuw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_sPhh9xnk8vomHEPsUKS8iYhgBh3GKkzq_knbrldjWNw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_E_iKrrQQCzS34Ph_0dV0ePpU8NJ9wrEnj9dXHVQ3JWU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print" />
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_wNCDgxTn6tYeEcQcd3hWnphRvjMVV8JTdRc-JOzQJws.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_zWZ1dbyg6WuqvSiANMHnRmLjz6BPJKk3sz8KNNylQqM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"k1LyygtVyBCZoeBx4_vXyv-DsgPppIaKiJkardBdkeE","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_11m_do3sh05v702XaB98UtxkNIDt_AhsQ42LNa6Uxiw.js":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/all\/themes\/basic\/css\/normalize.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EDes cookies sont utilis\u00e9s sur ce site.En cliquant vous accepter l\u0027utilisation de ces cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOui\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/","popup_link_new_window":0,"popup_position":1,"popup_language":"fr","domain":"","cookie_lifetime":"100"}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-190 node-type-fable role-anonymous-user with-subnav page-livre-10-l-homme-et-la-couleuvre section-livre-10" >
+  <div id="skip">
+    <a href="../node/190#content">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+              <a href="../index.html" title="Accueil" rel="home" id="logo">
+          <img src="../sites/www.lesfables.fr/files/les-fables-de-la-fontaine_0.png" alt="Accueil"/>
+        </a>
+      
+              <div id="name-and-slogan">
+
+                                    <div id="site-name">
+                <a href="../index.html" title="Accueil" rel="home">Les Fables de la Fontaine</a>
+              </div>
+                      
+          
+        </div>
+      
+          </div>
+  </header> <!-- /header -->
+
+      <nav id="navigation" class="menu with-primary">
+      <div class="container">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-218 fables first"><a href="../index.html" title="">Fables</a></li>
+<li class="menu-1235 jean-de-la-fontaine"><a href="../node/243">Jean de la Fontaine</a></li>
+<li class="menu-1744 actualit-s"><a href="../node/259">Actualités</a></li>
+<li class="menu-1794 quizz last"><a href="../node/268">Quizz</a></li>
+</ul>              </div>
+    </nav> <!-- /navigation -->
+  
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main">
+    <div class="container">
+      <section id="content">
+  
+                      <div id="content-header">
+
+              <h2 class="element-invisible">Vous êtes ici</h2><div class="breadcrumb"><span class="inline odd first" ><a href="../index.html">Fables de la Fontaine</a></span> › <span class="inline even" ><a href="../node/255">Livre X</a></span> › <span class="inline odd last" >L’Homme et la Couleuvre</span></div>
+              
+              
+                              <h1 class="title">L’Homme et la Couleuvre</h1>
+              
+                                          
+                              <div class="tabs"></div>
+              
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+              <div id="block-system-main" class="block block-system  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="ds-2col-stacked-fluid node node-fable node-odd view-mode-full group-one-column clearfix">
+
+  
+  
+      <div class="group-left">
+      <div class="field field-name-field-num-ro-de-fable field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Fable n° 1</div></div></div><div class="field field-name-field-livre field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Livre X</div></div></div><div class="field field-name-field-adsense-top-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0536312029867177";
+    google_ad_slot = "5929400343";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- Top fables (728x90) -->
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br/></div></div></div><div class="field field-name-field-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Un homme vit une Couleuvre.<br />
+Ah ! méchante, dit-il, je m’en vais faire une œuvre<br />
+Agréable à tout l’univers.<br />
+À ces mots l’animal pervers<br />
+(C’est le serpent que je veux dire,<br />
+Et non l’homme, on pourrait aisément s’y tromper.)<br />
+À ces mots le serpent se laissant attraper<br />
+Est pris, mis en un sac , et ce qui fut le pire,<br />
+On résolut sa mort, fût-il coupable ou non.<br />
+Afin de le payer toutefois de raison,<br />
+L’autre lui fit cette harangue<br />
+Symbole des ingrats, être bon aux méchants,<br />
+C’est être sot, meurs donc : ta colère et tes dents<br />
+Ne me nuiront jamais. Le Serpent en sa langue,<br />
+Reprit du mieux qu’il put : S’il fallait condamner<br />
+Tous les ingrats qui sont au monde,<br />
+À qui pourrait-on pardonner ?<br />
+Toi-même tu te fais ton procès. Je me fonde<br />
+Sur tes propres leçons ; jette les yeux sur toi.<br />
+Mes jours sont en tes mains, tranche-les : ta justice<br />
+C’est ton utilité, ton plaisir, ton caprice ;<br />
+Selon ces lois, condamne-moi :<br />
+Mais trouve bon qu’avec franchise<br />
+En mourant au moins je te dise,<br />
+Que le symbole des ingrats<br />
+Ce n’est point le serpent, c’est l’homme. Ces paroles<br />
+Firent arrêter l’autre ; il recula d’un pas.<br />
+Enfin il repartit. Tes raisons sont frivoles :<br />
+Je pourrais décider ; car ce droit m’appartient :<br />
+Mais rapportons nous en. Soit fait, dit le reptile.<br />
+Une vache était là, l’on l’appelle, elle vient,<br />
+Le cas est proposé, c’était chose facile.<br />
+Fallait-il pour cela, dit-elle, m’appeler ?<br />
+La Couleuvre a raison, pourquoi dissimuler ?<br />
+Je nourris celui-ci depuis longues années ;<br />
+Il n’a sans mes bienfaits passé nulles journées ;<br />
+Tout n’est que pour lui seul ; mon lait et mes enfants,<br />
+Le font à la maison revenir les mains pleines ;<br />
+Même j’ai rétabli sa santé que les ans<br />
+Avaient altérée, et mes peines<br />
+Ont pour but son plaisir ainsi que son besoin.<br />
+Enfin me voilà vieille ; il me laisse en un coin<br />
+Sans herbe ; s’il voulait encor me laisser paître !<br />
+Mais je suis attachée ; et si j’eusse eu pour maître<br />
+Un serpent, eût-il su jamais pousser si loin<br />
+L’ingratitude ? Adieu. J’ai dit ce que je pense.<br />
+L’homme tout étonné d’une telle sentence<br />
+Dit au serpent : Faut-il croire ce qu’elle dit ?<br />
+C’est une radoteuse, elle a perdu l’esprit.<br />
+Croyons ce Bœuf. Croyons, dit la rampante bête.<br />
+Ainsi dit, ainsi fait. Le Bœuf vient à pas lents.<br />
+Quand il eut ruminé tout le cas en sa tête,<br />
+Il dit que du labeur des ans<br />
+Pour nous seuls il portait les soins les plus pesants,<br />
+Parcourant sans cesser ce long cercle de peines<br />
+Qui revenant sur soi ramenait dans nos plaines<br />
+Ce que Cérès nous donne, et vend aux animaux.<br />
+Que cette suite de travaux<br />
+Pour récompense avait de tous tant que nous sommes,<br />
+Force coups, peu de gré ; puis quand il était vieux,<br />
+On croyait l’honorer chaque fois que les hommes<br />
+Achetaient de son sang l’indulgence des Dieux.<br />
+Ainsi parla le Bœuf. L’homme dit : Faisons taire<br />
+Cet ennuyeux déclamateur.<br />
+Il cherche de grands mots, et vient ici se faire,<br />
+Au lieu d’arbitre, accusateur.<br />
+Je le récuse aussi. L’arbre étant pris pour juge,<br />
+Ce fut bien pis encor. Il servait de refuge<br />
+Contre le chaud, la pluie, et la fureur des vents :<br />
+Pour nous seuls il ornait les jardins et les champs.<br />
+L’ombrage n’était pas le seul bien qu’il sût faire ;<br />
+Il courbait sous les fruits ; cependant pour salaire<br />
+Un rustre l’abattait, c’était là son loyer ;<br />
+Quoi que pendant tout l’an libéral il nous donne<br />
+Ou des fleurs au Printemps ; ou du fruit en Automne ;<br />
+L’ombre, l’Été ; l’Hiver, les plaisirs du foyer.<br />
+Que ne l’émondait-on sans prendre la cognée ?<br />
+De son tempérament il eût encor vécu.<br />
+L’homme trouvant mauvais que l’on l’eût convaincu,<br />
+Voulut à toute force avoir cause gagnée.<br />
+Je suis bien bon, dit-il, d’écouter ces gens-là.<br />
+Du sac et du serpent aussi-tôt il donna<br />
+Contre les murs, tant qu’il tua la bête.<br />
+On en use ainsi chez les grands.<br />
+La raison les offense : ils se mettent en tête<br />
+Que tout est né pour eux, quadrupèdes, et gens,<br />
+Et serpents.<br />
+Si quelqu’un desserre les dents,<br />
+C’est un sot. J’en conviens. Mais que faut-il donc faire ?<br />
+Parler de loin ; ou bien se taire.</p>
+</div></div></div>    </div>
+  
+  
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-21" class="block block-block  block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <center><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables bottom (336 x 280) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="9360544741"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->          </div>
+
+          
+      </section> <!-- /content-inner /content -->
+
+       <!-- /sidebar-first -->
+
+              <aside id="sidebar-second" class="column sidebar second">
+            <div id="block-block-22" class="block block-block  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables side (300 x 250) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="2696732340"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-fables_contextuel-block_1" class="block block-views  block-even clearfix">
+  <div class="block-inner">
+
+              <h2 class="block-title"><a href="../node/255"><b>Autres Fables du Livre 10</b></a></h2>
+        
+
+    <div class="content" >
+      <div class="view view-fables-contextuel view-id-fables_contextuel view-display-id-block_1 view-dom-id-24e3f13666ecb42e7463266fd4f734de">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/204">Le Marchand, le Gentilhomme, le Pâtre et le Fils de roi</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/202">Les deux Aventuriers et le Talisman</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/196">La Perdrix et les Coqs</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/194">Le Loup et les Bergers</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/199">Les Poissons et le Berger qui joue de la flûte</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/197">Le Chien à qui on a coupé les oreilles</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/200">Les deux Perroquets, le Roi et son Fils</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/193">L’Enfouisseur et son Compère</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/191">La Tortue et les deux Canards</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/195">L’Araignée et l’Hirondelle</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/203">Discours à Monsieur le Duc de La Rochefoucauld</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/201">La Lionne et l’Ourse</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/198">Le Berger et le Roi</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/192">Les Poissons et le Cormoran</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-23" class="block block-block  block-odd last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Liens pages side (180x90) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="1196319546"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->        </aside>
+       <!-- /sidebar-second -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <footer id="footer">
+      <div class="container">
+        <div id="block-block-1" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <p>© 2011-2012  Les <a href="../index.html">Fables</a>- <a href="../contact" rel="nofollow">Contact</a></p>
+    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->      </div>
+    </footer> <!-- /footer -->
+  
+</div> <!-- /page -->
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_TulgkrgWVFMvT_7EUbhvXcXhDpJ_hCuecBJqYsBLPrA.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2021-11-16 14:24:25, expires @ 2021-12-14 14:24:25, lifetime 4 semaines -->

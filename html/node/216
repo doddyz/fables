@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Fable de la Fontaine n° 3 du livre 12. Un Homme accumulait. On sait que cette erreur Va souvent jusqu’à la fureur. Celui-ci ne songeait que ..." />
+<meta content="Du Thésauriseur et du Singe" about="/livre-12/du-thesauriseur-et-du-singe" property="dc:title" />
+<link rel="canonical" href="216" />
+<link rel="canonical" href="216" />
+<link rel="shortlink" href="216" />
+  <title>Du Thésauriseur et du Singe - Les Fables</title>
+  <link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_e7qj41GnjxKpIpMPFuVmhMpkkXUS5XLPoQ3MoViceuw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_sPhh9xnk8vomHEPsUKS8iYhgBh3GKkzq_knbrldjWNw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_E_iKrrQQCzS34Ph_0dV0ePpU8NJ9wrEnj9dXHVQ3JWU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print" />
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_wNCDgxTn6tYeEcQcd3hWnphRvjMVV8JTdRc-JOzQJws.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_zWZ1dbyg6WuqvSiANMHnRmLjz6BPJKk3sz8KNNylQqM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"S0O1jyr0BRYi5ZVmwNswtujEw1xpBIrEJ8aZXzLVhgw","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_11m_do3sh05v702XaB98UtxkNIDt_AhsQ42LNa6Uxiw.js":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/all\/themes\/basic\/css\/normalize.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EDes cookies sont utilis\u00e9s sur ce site.En cliquant vous accepter l\u0027utilisation de ces cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOui\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/","popup_link_new_window":0,"popup_position":1,"popup_language":"fr","domain":"","cookie_lifetime":"100"}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-216 node-type-fable role-anonymous-user with-subnav page-livre-12-du-thesauriseur-et-du-singe section-livre-12" >
+  <div id="skip">
+    <a href="216#content">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+              <a href="../index.html" title="Accueil" rel="home" id="logo">
+          <img src="../sites/www.lesfables.fr/files/les-fables-de-la-fontaine_0.png" alt="Accueil"/>
+        </a>
+      
+              <div id="name-and-slogan">
+
+                                    <div id="site-name">
+                <a href="../index.html" title="Accueil" rel="home">Les Fables de la Fontaine</a>
+              </div>
+                      
+          
+        </div>
+      
+          </div>
+  </header> <!-- /header -->
+
+      <nav id="navigation" class="menu with-primary">
+      <div class="container">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-218 fables first"><a href="../index.html" title="">Fables</a></li>
+<li class="menu-1235 jean-de-la-fontaine"><a href="243">Jean de la Fontaine</a></li>
+<li class="menu-1744 actualit-s"><a href="259">Actualités</a></li>
+<li class="menu-1794 quizz last"><a href="268">Quizz</a></li>
+</ul>              </div>
+    </nav> <!-- /navigation -->
+  
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main">
+    <div class="container">
+      <section id="content">
+  
+                      <div id="content-header">
+
+              <h2 class="element-invisible">Vous êtes ici</h2><div class="breadcrumb"><span class="inline odd first" ><a href="../index.html">Fables de la Fontaine</a></span> › <span class="inline even" ><a href="257">Livre XII</a></span> › <span class="inline odd last" >Du Thésauriseur et du Singe</span></div>
+              
+              
+                              <h1 class="title">Du Thésauriseur et du Singe</h1>
+              
+                                          
+                              <div class="tabs"></div>
+              
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+              <div id="block-system-main" class="block block-system  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="ds-2col-stacked-fluid node node-fable node-odd view-mode-full group-one-column clearfix">
+
+  
+  
+      <div class="group-left">
+      <div class="field field-name-field-num-ro-de-fable field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Fable n° 3</div></div></div><div class="field field-name-field-livre field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Livre XII</div></div></div><div class="field field-name-field-adsense-top-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0536312029867177";
+    google_ad_slot = "5929400343";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- Top fables (728x90) -->
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br/></div></div></div><div class="field field-name-field-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Un Homme accumulait. On sait que cette erreur<br />
+Va souvent jusqu’à la fureur.<br />
+Celui-ci ne songeait que ducats et pistoles.<br />
+Quand ces biens sont oisifs, je tiens qu’ils sont frivoles.<br />
+Pour sûreté de son trésor,<br />
+Notre avare habitait un lieu dont Amphitrite<br />
+Défendait aux voleurs de toutes parts l’abord.<br />
+Là, d’une volupté selon moi fort petite,<br />
+Et selon lui fort grande, il entassait toujours :<br />
+Il passait les nuits et les jours<br />
+À compter, calculer, supputer sans relâche,<br />
+Calculant, supputant, comptant comme à la tâche ;<br />
+Car il trouvait toujours du mécompte à son fait.<br />
+Un gros Singe plus sage, à mon sens, que son maître,<br />
+Jetait quelque doublon toujours par la fenêtre<br />
+Et rendait le compte imparfait :<br />
+La chambre, bien cadenassée,<br />
+Permettait de laisser l’argent sur le comptoir.<br />
+Un beau jour dom Bertrand se mit dans la pensée<br />
+D’en faire un sacrifice au liquide manoir.<br />
+Quant à moi, lorsque je compare<br />
+Les plaisirs de ce Singe à ceux de cet avare,<br />
+Je ne sais bonnement auquel donner le prix :<br />
+Dom Bertrand gagnerait près de certains esprits ;<br />
+Les raisons en seraient trop longues à déduire.<br />
+Un jour donc l’animal, qui ne songeait qu’à nuire,<br />
+Détachait du monceau, tantôt quelque doublon,<br />
+Un jacobus, un ducaton ;<br />
+Et puis quelque noble à la rose<br />
+Éprouvait son adresse et sa force à jeter<br />
+Ces morceaux de métal, qui se font souhaiter<br />
+Par les humains sur toute chose.<br />
+S’il n’avait entendu son compteur à la fin<br />
+Mettre la clef dans la serrure,<br />
+Les ducats auraient tous pris le même chemin,<br />
+Et couru la même aventure ;<br />
+Il les aurait fait tous voler jusqu’au dernier<br />
+Dans le gouffre enrichi par maint et maint naufrage.<br />
+Dieu veuille préserver maint et maint financier<br />
+Qui n’en fait pas meilleur usage ! </p>
+</div></div></div>    </div>
+  
+  
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-21" class="block block-block  block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <center><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables bottom (336 x 280) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="9360544741"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->          </div>
+
+          
+      </section> <!-- /content-inner /content -->
+
+       <!-- /sidebar-first -->
+
+              <aside id="sidebar-second" class="column sidebar second">
+            <div id="block-block-22" class="block block-block  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables side (300 x 250) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="2696732340"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-fables_contextuel-block_1" class="block block-views  block-even clearfix">
+  <div class="block-inner">
+
+              <h2 class="block-title"><a href="257"><b>Autres Fables du Livre 12</b></a></h2>
+        
+
+    <div class="content" >
+      <div class="view view-fables-contextuel view-id-fables_contextuel view-display-id-block_1 view-dom-id-7e2d937a9a9a660e62eedf1170299d5d">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="245">Le Loup et le Renard</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="240">Les Filles de Minée</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="232">Le Philosophe scythe</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="241">Le Juge arbitre, l’Hospitalier et le Solitaire</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="239">Belphégor</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="226">L’Amour et la Folie</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="237">Philémon et Baucis</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="217">Les deux Chèvres</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="235">Le Renard anglais</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="224">Le Milan, le Roi et le Chasseur</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="218">Le Vieux Chat et la jeune Souris</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="222">L’Écrevisse et sa Fille</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="214">Les Compagnons d’Ulysse</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="221">La Querelle des chiens et des chats et celle des chats et des souris</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="215">Le Chat et les deux Moineaux</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="220">La Chauve-Souris, le Buisson et le Canard</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="219">Le Cerf malade</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="225">Le Renard, les Mouches et le Hérisson</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="223">L’Aigle et la Pie</a></span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="227">Le Corbeau, la Gazelle, la Tortue et le Rat</a></span>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="238">La Matrone d’Éphèse</a></span>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="228">La Forêt et le Bûcheron</a></span>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="230">Le Renard et les Poulets d’Inde</a></span>  </div>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="229">Le Renard, le Loup et le Cheval</a></span>  </div>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="233">L’Eléphant, et le Singe de Jupiter</a></span>  </div>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="231">Le Singe</a></span>  </div>  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="236">Daphnis et Alcimadure</a></span>  </div>  </div>
+  <div class="views-row views-row-28 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="234">Un Fou et un Sage</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-23" class="block block-block  block-odd last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Liens pages side (180x90) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="1196319546"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->        </aside>
+       <!-- /sidebar-second -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <footer id="footer">
+      <div class="container">
+        <div id="block-block-1" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <p>© 2011-2012  Les <a href="../index.html">Fables</a>- <a href="../contact" rel="nofollow">Contact</a></p>
+    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->      </div>
+    </footer> <!-- /footer -->
+  
+</div> <!-- /page -->
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_TulgkrgWVFMvT_7EUbhvXcXhDpJ_hCuecBJqYsBLPrA.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2021-11-09 04:15:59, expires @ 2021-12-07 04:15:59, lifetime 4 semaines -->

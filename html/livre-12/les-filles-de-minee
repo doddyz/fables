@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Fable de la Fontaine n° 28 du livre 12. Je chante dans ces Vers les Filles de Minée, Troupe aux arts de Pallas dès l’enfance adonnée, Et de ..." />
+<meta content="Les Filles de Minée" about="/livre-12/les-filles-de-minee" property="dc:title" />
+<link rel="canonical" href="../node/240" />
+<link rel="canonical" href="../node/240" />
+<link rel="shortlink" href="../node/240" />
+  <title>Les Filles de Minée - Les Fables</title>
+  <link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_e7qj41GnjxKpIpMPFuVmhMpkkXUS5XLPoQ3MoViceuw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_sPhh9xnk8vomHEPsUKS8iYhgBh3GKkzq_knbrldjWNw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_E_iKrrQQCzS34Ph_0dV0ePpU8NJ9wrEnj9dXHVQ3JWU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print" />
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_wNCDgxTn6tYeEcQcd3hWnphRvjMVV8JTdRc-JOzQJws.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_zWZ1dbyg6WuqvSiANMHnRmLjz6BPJKk3sz8KNNylQqM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"lNeyYT5-jRntlBMbDoXl3goqvtZecEgvyeYfPuRxk20","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_11m_do3sh05v702XaB98UtxkNIDt_AhsQ42LNa6Uxiw.js":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/all\/themes\/basic\/css\/normalize.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EDes cookies sont utilis\u00e9s sur ce site.En cliquant vous accepter l\u0027utilisation de ces cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOui\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/","popup_link_new_window":0,"popup_position":1,"popup_language":"fr","domain":"","cookie_lifetime":"100"}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-240 node-type-fable role-anonymous-user with-subnav page-livre-12-les-filles-de-minee section-livre-12" >
+  <div id="skip">
+    <a href="../node/240#content">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+              <a href="../index.html" title="Accueil" rel="home" id="logo">
+          <img src="../sites/www.lesfables.fr/files/les-fables-de-la-fontaine_0.png" alt="Accueil"/>
+        </a>
+      
+              <div id="name-and-slogan">
+
+                                    <div id="site-name">
+                <a href="../index.html" title="Accueil" rel="home">Les Fables de la Fontaine</a>
+              </div>
+                      
+          
+        </div>
+      
+          </div>
+  </header> <!-- /header -->
+
+      <nav id="navigation" class="menu with-primary">
+      <div class="container">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-218 fables first"><a href="../index.html" title="">Fables</a></li>
+<li class="menu-1235 jean-de-la-fontaine"><a href="../node/243">Jean de la Fontaine</a></li>
+<li class="menu-1744 actualit-s"><a href="../node/259">Actualités</a></li>
+<li class="menu-1794 quizz last"><a href="../node/268">Quizz</a></li>
+</ul>              </div>
+    </nav> <!-- /navigation -->
+  
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main">
+    <div class="container">
+      <section id="content">
+  
+                      <div id="content-header">
+
+              <h2 class="element-invisible">Vous êtes ici</h2><div class="breadcrumb"><span class="inline odd first" ><a href="../index.html">Fables de la Fontaine</a></span> › <span class="inline even" ><a href="../node/257">Livre XII</a></span> › <span class="inline odd last" >Les Filles de Minée</span></div>
+              
+              
+                              <h1 class="title">Les Filles de Minée</h1>
+              
+                                          
+                              <div class="tabs"></div>
+              
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+              <div id="block-system-main" class="block block-system  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="ds-2col-stacked-fluid node node-fable node-odd view-mode-full group-one-column clearfix">
+
+  
+  
+      <div class="group-left">
+      <div class="field field-name-field-num-ro-de-fable field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Fable n° 28</div></div></div><div class="field field-name-field-livre field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Livre XII</div></div></div><div class="field field-name-field-adsense-top-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0536312029867177";
+    google_ad_slot = "5929400343";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- Top fables (728x90) -->
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br/></div></div></div><div class="field field-name-field-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Je chante dans ces Vers les Filles de Minée,<br />
+Troupe aux arts de Pallas dès l’enfance adonnée,</p>
+<p>Et de qui le travail fit entrer en courroux<br />
+Bacchus, à juste droit de ses honneurs jaloux.<br />
+Tout Dieu veut aux humains se faire reconnaître.<br />
+On ne voit point les champs répondre aux soins du Maître,<br />
+Si dans les jours sacrés autour de ses guérets,<br />
+Il ne marche en triomphe à l’honneur de Cérés.<br />
+La Grèce était en jeux pour le fils de Séméle ;<br />
+Seules on vit trois sœurs condamner ce saint zèle.<br />
+Alcithoé l’aînée ayant pris ses fuseaux,<br />
+Dit aux autres : Quoi donc toujours des Dieux nouveaux ?<br />
+L’Olympe ne peut plus contenir tant de têtes,</p>
+<p>Ni l’an fournir de jours assez pour tant de Fêtes.<br />
+Je ne dis rien des vœux dus aux travaux divers<br />
+De ce Dieu qui purgea de monstres l’Univers ;<br />
+Mais à quoi sert Bacchus, qu’à causer des querelles ?<br />
+Affaiblir les plus sains ? enlaidir les plus belles ?<br />
+Souvent mener au Styx par de tristes chemins ?<br />
+Et nous irons chômer la peste des humains ?<br />
+Pour moi, j’ai résolu de poursuivre ma tâche.<br />
+Se donne qui voudra ce jour-ci du relâche :<br />
+Ces mains n’en prendront point. Je suis encor d’avis</p>
+<p>Que nous rendions le temps moins long par des récits.<br />
+Toutes trois tour à tour racontons quelque histoire ;<br />
+Je pourrais retrouver sans peine en ma mémoire<br />
+Du Monarque des Dieux les divers changements ;<br />
+Mais comme chacun sait tous ces événements,<br />
+Disons ce que l’amour inspire à nos pareilles :<br />
+Non toutefois qu’il faille en contant ses merveilles,<br />
+Accoutumer nos cœurs à goûter son poison ;<br />
+Car, ainsi que Bacchus, il trouble la raison.<br />
+Récitons-nous les maux que ses biens nous attirent.</p>
+<p>Alcithoé se tut, et ses sœurs applaudirent.<br />
+Après quelques moments, haussant un peu la voix,<br />
+Dans Thèbes, reprit-elle, on conte qu’autrefois<br />
+Deux jeunes cœurs s’aimaient d’une égale tendresse :<br />
+Pyrame, c’est l’amant, eut Thisbé pour maîtresse :<br />
+Jamais couple ne fut si bien assorti qu’eux ;<br />
+L’un bien fait, l’autre belle, agréables tous deux,<br />
+Tous deux dignes de plaire, ils s’aimèrent sans peine ;<br />
+D’autant plutôt épris, qu’une invincible haine<br />
+Divisant leurs parents, ces deux Amants unit,</p>
+<p>Et concourut aux traits dont l’Amour se servit.<br />
+Le hasard, non le choix, avait rendu voisines<br />
+Leurs maisons où régnaient ces guerres intestines ;<br />
+Ce fut un avantage à leurs désirs naissants.<br />
+Le cours en commença par des jeux innocents :<br />
+La première étincelle eut embrasé leur âme<br />
+Qu’ils ignoraient encor ce que c’était que flamme.<br />
+Chacun favorisait leurs transports mutuels,<br />
+Mais c’était à l’insu de leurs parents cruels.<br />
+La défense est un charme ; on dit qu’elle assaisonne</p>
+<p>Les plaisirs, et sur tout ceux que l’amour nous donne.<br />
+D’un des logis à l’autre, elle instruisit du moins<br />
+Nos Amants à se dire avec signe leurs soins.<br />
+Ce léger réconfort ne les put satisfaire ;<br />
+Il fallut recourir à quelque autre mystère.<br />
+Un vieux mur entr’ouvert séparait leurs maisons,<br />
+Le temps avait miné ses antiques cloisons.<br />
+Là souvent de leurs maux ils déploraient la cause ;<br />
+Les paroles passaient, mais c’était peu de chose.<br />
+Se plaignant d’un tel sort, Pyrame dit un jour,<br />
+Chère Thisbé, le Ciel veut qu’on s’aide en amour ;</p>
+<p>Nous avons à nous voir une peine infinie ;<br />
+Fuyons de nos parents l’injuste tyrannie :<br />
+J’en ai d’autres en Grèce ; ils se tiendront heureux<br />
+Que vous daignez chercher un asile chez eux ;<br />
+Leur amitié, leurs biens, leur pouvoir, tout m’invite<br />
+À prendre le parti dont je vous sollicite.<br />
+C’est votre seul repos qui me le fait choisir,<br />
+Car je n’ose parler, hélas ! de mon désir ;<br />
+Faut-il à votre gloire en faire un sacrifice ?<br />
+De crainte des vains bruits faut-il que je languisse ?<br />
+Ordonnez, j’y consens, tout me semblera doux ;</p>
+<p>Je vous aime Thisbé, moins pour moi que pour vous.<br />
+J’en pourrais dire autant, lui repartit l’Amante ;<br />
+Votre amour étant pure, encor que véhémente,<br />
+Je vous suivrai partout ; notre commun repos<br />
+Me doit mettre au-dessus de tous les vains propos ;<br />
+Tant que de ma vertu je serai satisfaite,<br />
+Je rirai des discours d’une langue indiscrète,<br />
+Et m’abandonnerai sans crainte à votre ardeur,<br />
+Contente que je suis des soins de ma pudeur.<br />
+Jugez ce que sentit Pyrame à ces paroles ;<br />
+Je n’en fais point ici de peintures frivoles.</p>
+<p>Suppléez au peu d’art que le Ciel mit en moi :<br />
+Vous-mêmes peignez-vous cet Amant hors de soi.<br />
+Demain, dit-il, il faut sortir avant l’Aurore ;<br />
+N’attendez point les traits que son char fait éclore ;<br />
+Trouvez-vous aux degrés du terme de Cérès ;<br />
+Là nous nous attendrons ; le rivage est tout près :<br />
+Une barque est au bord ; Les Rameurs, le vent même,<br />
+Tout pour notre départ montre une hâte extrême ;<br />
+L’augure en est heureux, notre sort va changer ;<br />
+Et les Dieux sont pour nous, si je sais bien juger.</p>
+<p>Thisbé consent à tout ; elle en donne pour gage<br />
+Deux baisers par le mur arrêtés au passage,<br />
+Heureux mur ! tu devais servir mieux leur désir ;<br />
+Ils n’obtinrent de toi qu’une ombre de plaisir.<br />
+Le lendemain Thisbé sort et prévient Pyrame ;<br />
+L’impatience, hélas ! maîtresse de son âme,<br />
+La fait arriver seule et sans guide aux degrés ;<br />
+L’ombre et le jour luttaient dans les champs azurés.<br />
+Une lionne vient, monstre imprimant la crainte ;<br />
+D’un carnage récent sa gueule est toute teinte.</p>
+<p>Thisbé fuit, et son voile emporté par les airs,<br />
+Source d’un sort cruel, tombe dans ces déserts.<br />
+La lionne le voit, le souille, le déchire,<br />
+Et l’ayant teint de sang, aux forêts se retire.<br />
+Thisbé s’était cachée en un buisson épais.<br />
+Pyrame arrive, et voit ces vestiges tout frais.<br />
+Ô Dieux ! que devient-il ? un froid court dans ses veines ;<br />
+Il aperçoit le voile étendu dans ces plaines :<br />
+Il le lève ; et le sang joint aux traces des pas,<br />
+L’empêche de douter d’un funeste trépas.<br />
+Thisbé, s’écria-t-il, Thisbé, je t’ai perdue,</p>
+<p>Te voilà par ma faute aux Enfers descendue !<br />
+Je l’ai voulu ; c’est moi qui suis le monstre affreux<br />
+Par qui tu t’en vas voir le séjour ténébreux :<br />
+Attends-moi, je te vais rejoindre aux rives sombres ;<br />
+Mais m’oserai-je à toi présenter chez les Ombres ?<br />
+Jouis au moins du sang que je te vais offrir,<br />
+Malheureux de n’avoir qu’une mort à souffrir.<br />
+Il dit, et d’un poignard coupe aussi-tôt sa trame.<br />
+Thisbé vient ; Thisbé voit tomber son cher Pyrame.<br />
+Que devint-elle aussi ? tout lui manque à la fois,</p>
+<p>Le sens, et les esprits aussi bien que la voix.<br />
+Elle revient enfin ; Cloton pour l’amour d’elle<br />
+Laisse à Pyrame ouvrir sa mourante prunelle.<br />
+Il ne regarde point la lumière des Cieux ;<br />
+Sur Thisbé seulement il tourne encor les yeux.<br />
+Il voudrait lui parler, sa langue est retenue ;<br />
+Il témoigne mourir content de l’avoir vue.<br />
+Thisbé prend le poignard ; et découvrant son sein,<br />
+Je n’accuserai point, dit-elle, ton dessein ;<br />
+Bien moins encor l’erreur de ton âme alarmée ;<br />
+Ce serait t’accuser de m’avoir trop aimée.</p>
+<p>Je ne t’aime pas moins : tu vas voir que mon cœur<br />
+N’a non plus que le tien mérité son malheur.<br />
+Cher Amant, reçois donc ce triste sacrifice.<br />
+Sa main et le poignard font alors leur office :<br />
+Elle tombe, et tombant range ses vétemens,<br />
+Dernier trait de pudeur, même aux derniers moments.<br />
+Les Nymphes d’alentour lui donnèrent des larmes ;<br />
+Et du sang des Amants teignirent par des charmes<br />
+Le fruit d’un Mûrier proche, et blanc jusqu’à ce jour,<br />
+Éternel monument d’un si parfait amour.<br />
+Cette histoire attendrit les filles de Minée :</p>
+<p>L’une accusait l’Amant, l’autre la destinée,<br />
+Et toutes d’une voix conclurent que nos cœurs<br />
+De cette passion devraient être vainqueurs.<br />
+Elle meurt quelquefois avant qu’être contente ;<br />
+L’est-elle ? elle devient aussi-tôt languissante :<br />
+Sans l’hymen on n’en doit recueillir aucun fruit,<br />
+Et cependant l’hymen est ce qui la détruit.<br />
+Il y joint, dit Climène, une âpre jalousie.<br />
+Poison le plus cruel dont l’âme soit saisie.<br />
+Je n’en veux pour témoin que l’erreur de Procris.</p>
+<p>Alcithoé ma sœur, attachant vos esprits,<br />
+Des tragiques amours vous a conté l’élite ;<br />
+Celles que je vais dire ont aussi leur mérite.<br />
+J’acourcirai le temps ainsi qu’elle, à mon tour.<br />
+Peu s’en faut que Phœbus ne partage le jour.<br />
+À ses rayons perçants opposons quelques voiles.<br />
+Voyons combien nos mains ont avancé nos toiles.<br />
+Je veux que sur la mienne, avant que d’être au soir,<br />
+Un progrès tout nouveau se fasse apercevoir :<br />
+Cependant donnez-moi quelque heure de silence,<br />
+Ne vous rebutez point de mon peu d’éloquence ;</p>
+<p>Souffrez-en les défauts ; et songez seulement<br />
+Au fruit qu’on peut tirer de cet événement.</p>
+<p>Céphale aimait Procris, il était aimé d’elle ;<br />
+Chacun se proposait leur Hymen pour modèle.<br />
+Ce qu’Amour fait sentir de piquant et de doux<br />
+Comblait abondamment les vœux de ces Époux.<br />
+Ils ne s’aimaient que trop ; leurs soins et leur tendresse<br />
+Approchaient des transports d’Amant et de Maîtresse ;<br />
+Le Ciel même envia cette félicité :<br />
+Céphale eut à combattre une Divinité.</p>
+<p>Il était jeune et beau, l’Aurore en fut charmée ;<br />
+N’étant pas à ces biens, chez elle, accoutumée.<br />
+Nos belles cacheraient un pareil sentiment :<br />
+Chez les Divinités on en use autrement.<br />
+Celle-ci déclara son amour à Céphale.<br />
+Il eut beau lui parler de la foi conjugale ;<br />
+Les jeunes Déités qui n’ont qu’un vieil Époux,<br />
+Ne se soumettent point à ces lois comme nous.<br />
+La Déesse enleva ce Héros si fidèle :<br />
+De modérer ses feux il pria l’Immortelle.<br />
+Elle le fit ; l’amour devint simple amitié :<br />
+Retournez, dit l’Aurore, avec votre moitié.</p>
+<p>Je ne troublerai plus votre ardeur ni la sienne ;<br />
+Recevez seulement ces marques de la mienne.<br />
+(C’était un javelot toujours sûr de ses coups.)<br />
+Un jour cette Procris qui ne vit que pour vous,<br />
+Fera le désespoir de votre âme charmée,<br />
+Et vous aurez regret de l’avoir tant aimée.<br />
+Tout Oracle est douteux, et porte un double sens ;<br />
+Celui-ci mit d’abord notre Époux en suspens :<br />
+J’aurai regret aux vœux que j’ai formés pour elle ;<br />
+Et comment ? N’est-ce point qu’elle m’est infidèle ?<br />
+Ah finissent mes jours plutôt que de le voir !</p>
+<p>Éprouvons toutefois ce que peut son devoir.<br />
+Des Mages aussi-tôt consultant la science,<br />
+D’un feint adolescent il prend la ressemblance ;<br />
+S’en va trouver Procris, élève jusqu’aux Cieux<br />
+Ses beautés qu’il soutient être dignes des Dieux ;<br />
+Joint les pleurs aux soupirs comme un Amant sait faire,<br />
+Et ne peut s’éclaircir par cet art ordinaire.<br />
+Il fallut recourir à ce qui porte coup,<br />
+Aux présents ; il offrit, donna promit beaucoup,<br />
+Promit tant que Procris lui parut incertaine.<br />
+Toute chose a son prix : voilà Céphale en peine ;</p>
+<p>Il renonce aux cités, s’en va dans les forêts,<br />
+Conte aux vents, conte aux bois ses déplaisirs secrets :<br />
+S’imagine en chassant dissiper son martyre.<br />
+C’était pendant ces mois où le chaud qu’on respire<br />
+Oblige d’implorer l’haleine des Zéphyrs.<br />
+Doux Vents, s’écriait-il, prêtez-moi des soupirs,<br />
+Venez, légers Démons par qui nos champs fleurissent :<br />
+Aure, fais-les venir ; je sais qu’ils t’obéissent ;<br />
+Ton emploi dans ces lieux est de tout ranimer.<br />
+On l’entendit, on crut qu’il venait de nommer<br />
+Quelque objet de ses vœux autre que son Épouse.</p>
+<p>Elle en est avertie, et la voilà jalouse.<br />
+Maint voisin charitable entretient ses ennuis :<br />
+Je ne le puis plus voir, dit-elle, que les nuits.<br />
+Il aime donc cette Aure, et me quitte pour elle ?<br />
+Nous vous plaignons ; il l’aime, et sans cesse il l’appelle ;<br />
+Les échos de ces lieux n’ont plus d’autres emplois<br />
+Que celui d’enseigner le nom d’Aure à nos bois.<br />
+Dans tous les environs le nom d’Aure résonne.<br />
+Profitez d’un avis qu’en passant on vous donne.<br />
+L’intérêt qu’on y prend est de vous obliger.<br />
+Elle en profite, hélas ! et ne fait qu’y songer.</p>
+<p>Les Amants sont toujours de légère croyance.<br />
+S’ils pouvaient conserver un rayon de prudence,<br />
+(Je demande un grand point, la prudence en amours)<br />
+Ils seraient aux rapports insensibles et sourds.<br />
+Notre Épouse ne fut l’une ni l’autre chose :<br />
+Elle se lève un jour ; et lorsque tout repose,<br />
+Que de l’aube au teint frais la charmante douceur<br />
+Force tout au sommeil, hormis quelque Chasseur,<br />
+Elle cherche Céphale ; un bois l’offre à sa vue.<br />
+Il invoquait déjà cette Aure prétendue.</p>
+<p>Viens me voir, disait-il, chère Déesse accours :<br />
+Je n’en puis plus, je meurs, fais que par ton secours<br />
+La peine que je sens se trouve soulagée.<br />
+L’Épouse se prétend par ces mots outragée ;<br />
+Elle croit y trouver, non le sens qu’ils cachaient,<br />
+Mais celui seulement que ses soupçons cherchaient.<br />
+Ô triste jalousie ! ô passion amère !<br />
+Fille d’un fol amour, que l’erreur a pour mère !<br />
+Ce qu’on voit par tes yeux cause assez d’embarras,<br />
+Sans voir encor par eux ce que l’on ne voit pas.<br />
+Procris s’était cachée en la même retraite</p>
+<p>Qu’un Faon de Biche avait pour demeure secrète :<br />
+Il en sort ; et le bruit trompe aussi-tôt l’Époux.<br />
+Céphale prend le dard toujours sûr de ses coups,<br />
+Le lance en cet endroit, et perce sa jalouse ;<br />
+Malheureux assassin d’une si chère Épouse.<br />
+Un cri lui fait d’abord soupçonner quelque erreur ;<br />
+Il accourt, voit sa faute, et tout plein de fureur,<br />
+Du même javelot il veut s’ôter la vie.<br />
+L’Aurore et les Destins arrêtent cette envie.<br />
+Cet office lui fut plus cruel qu’indulgent.<br />
+L’infortuné Mari sans cesse s’affligeant,<br />
+Eût accru par ses pleurs le nombre des fontaines,</p>
+<p>Si la Déesse enfin, pour terminer ses peines,<br />
+N’eût obtenu du Sort que l’on tranchât ses jours ;<br />
+Triste fin d’un Hymen bien divers en son cours.<br />
+Fuyons ce nœud, mes Sœurs, je ne puis trop le dire.<br />
+Jugez par le meilleur quel peut être le pire.<br />
+S’il ne nous est permis d’aimer que sous ses lois,<br />
+N’aimons point. Ce dessein fut pris par toutes trois.<br />
+Toutes trois pour chasser de si tristes pensées,<br />
+À revoir leur travail se montrent empressées.<br />
+Climène en un tissu riche, pénible, et grand,</p>
+<p>Avait presque achevé le fameux différend<br />
+D’entre le Dieu des eaux et Pallas la savante.<br />
+On voyait en lointain une ville naissante.<br />
+L’honneur de la nommer entre eux deux contesté,<br />
+Dépendait du présent de chaque Déité.<br />
+Neptune fit le sien d’un symbole de guerre.<br />
+Un coup de son trident fit sortir de la terre<br />
+Un animal fougueux, un Coursier plein d’ardeur.<br />
+Chacun de ce présent admirait la grandeur.<br />
+Minerve l’effaça, donnant à la contrée<br />
+L’Olivier, qui de paix est la marque assurée ;<br />
+Elle emporta le prix, et nomma la Cité.</p>
+<p>Athènes offrit ses vœux à cette Déité.<br />
+Pour les lui présenter on choisit cent pucelles,<br />
+Toutes sachant broder, aussi sages que belles.<br />
+Les premières portaient force présents divers.<br />
+Tout le reste entourait la Déesse aux yeux pers.<br />
+Avec un doux sourire elle acceptait l’hommage.<br />
+Climène ayant enfin replié son ouvrage,<br />
+La jeune Iris commence en ces mots son récit.</p>
+<p>Rarement pour les pleurs mon talent réussit,<br />
+Je suivrai toutefois la matière imposée.<br />
+Télamon pour Cloris avait l’âme embrasée :</p>
+<p>Cloris pour Télamon brûlait de son côté.<br />
+La naissance, l’esprit, les grâces, la beauté ;<br />
+Tout se trouvait en eux, hormis ce que les hommes<br />
+Font marcher avant tout dans ce siècle où nous sommes.<br />
+Ce sont les biens, c’est l’or, mérite universel.<br />
+Ces Amants, Quoiqu’épris d’un désir mutuel,<br />
+N’osaient au blond Hymen sacrifier encore ;<br />
+Faute de ce métail que tout le monde adore.<br />
+Amour s’en passerait, l’autre état ne le peut :<br />
+Soit raison, soit abus, le Sort ainsi le veut.</p>
+<p>Cette loi qui corrompt les douceurs de la vie,<br />
+Fut par le jeune Amant d’une autre erreur suivie.<br />
+Le Démon des Combats vint troubler l’Univers.<br />
+Un Pays contesté par des Peuples divers<br />
+Engagea Télamon dans un dur exercice.<br />
+Il quitta pour un temps l’amoureuse milice.<br />
+Cloris y consentit, mais non pas sans douleur.<br />
+Il voulut mériter son estime et son cœur.<br />
+Pendant que ses exploits terminent la querelle,<br />
+Un parent de Cloris meurt, et laisse à la belle<br />
+D’amples possessions et d’immenses trésors :</p>
+<p>Il habitait les lieux où Mars régnait alors.<br />
+La Belle s’y transporte ; et partout révérée,<br />
+partout, des deux partis Cloris considérée,<br />
+Voit de ses propres yeux les champs où Télamon<br />
+Venait de consacrer un trophée à son nom.<br />
+Lui de sa part accourt, et, tout couvert de gloire<br />
+Il offre à ses amours les fruits de sa victoire.<br />
+Leur rencontre se fit non loin de l’élément<br />
+Qui doit être évité de tout heureux Amant.<br />
+dès ce jour l’âge d’or les eût joints sans mystère ;</p>
+<p>L’âge de fer en tout a coutume d’en faire.<br />
+Cloris ne voulut donc couronner tous ces biens<br />
+Qu’au sein de sa Patrie, et de l’aveu des siens.<br />
+Tout chemin, hors la mer, allongeant leur souffrance,<br />
+Ils commettent aux flots cette douce espérance.<br />
+Zephyre les suivait quand presque en arrivant,<br />
+Un Pirate survient, prend le dessus du vent,<br />
+Les attaque, les bat. En vain par sa vaillance<br />
+Télamon jusqu’au bout porte la résistance.<br />
+Après un long combat son parti fut défait ;</p>
+<p>Lui pris ; et ses efforts n’eurent pour tout effet<br />
+Qu’un esclavage indigne. Ô Dieux, qui l’eût pu croire !<br />
+Le sort sans respecter ni son sang ni sa gloire,<br />
+Ni son bonheur prochain, ni les vœux de Cloris,<br />
+Le fit être forçat aussi-tôt qu’il fut pris.<br />
+Le destin ne fut pas à Cloris si contraire ;<br />
+Un célèbre Marchand l’achète du Corsaire :<br />
+Il l’emmène ; et bien-tôt la Belle, malgré soi,<br />
+Au milieu de ses fers, range tout sous sa loi.<br />
+L’Épouse du Marchand la voit avec tendresse.<br />
+Ils en font leur Compagne, et leur fils sa Maîtresse.</p>
+<p>Chacun veut cet Hymen : Cloris à leurs désirs<br />
+Répondait seulement par de profonds soupirs.<br />
+Damon, c’était ce fils, lui tient ce doux langage :<br />
+Vous soupirez toujours, toujours votre visage<br />
+Baigné de pleurs nous marque un déplaisir secret.<br />
+Qu’avez-vous ? vos beaux yeux verraient-ils à regret<br />
+Ce que peuvent leurs traits, et l’excès de ma flamme ?<br />
+Rien ne vous force ici, découvrez-nous votre âme ;<br />
+Cloris, c’est moi qui suis l’esclave, et non pas vous ;<br />
+Ces lieux, à votre gré, n’ont-ils rien d’assez doux ?</p>
+<p>Parlez ; nous sommes prêts à changer de demeure ;<br />
+Mes parents m’ont promis de partir tout-à-l’heure.<br />
+Regrettez-vous les biens que vous avez perdus ?<br />
+Tout le nôtre est à vous, ne le dédaignez plus.<br />
+J’en sais qui l’agréeraient ; j’ai su plaire à plus d’une ;<br />
+Pour vous, vous méritez toute une autre fortune.<br />
+Quelle que soit la nôtre, usez-en ; vous voyez<br />
+Ce que nous possédons, et nous-même à vos pieds.<br />
+Ainsi parle Damon, et Cloris toute en larmes,<br />
+Lui répond en ces mots accompagnés de charmes.</p>
+<p>Vos moindres qualités, et cet heureux séjour<br />
+Même aux Filles des Dieux donneraient de l’amour ;<br />
+Jugez donc si Cloris esclave et malheureuse,<br />
+Voit l’offre de ces biens d’une âme dédaigneuse.<br />
+Je sais quel est leur prix ; mais de les accepter,<br />
+Je ne puis ; et voudrais vous pouvoir écouter.<br />
+Ce qui me le défend, ce n’est point l’esclavage ;<br />
+Si toujours la naissance éleva mon courage,<br />
+Je me vois, grâce aux Dieux, en des mains où je puis<br />
+Garder ces sentiments malgré tous mes ennuis.</p>
+<p>Je puis même avouer (hélas ! faut-il le dire ? )<br />
+Qu’un autre a sur mon cœur conservé son empire.<br />
+Je chéris un Amant, ou mort ou dans les fers ;<br />
+Je prétends le chérir encor dans les enfers.<br />
+Pourriez-vous estimer le cœur d’une inconstante ?<br />
+Je ne suis déjà plus aimable ni charmante,<br />
+Cloris n’a plus ces traits que l’on trouvait si doux,<br />
+Et doublement esclave est indigne de vous.<br />
+Touché de ce discours, Damon prend congé d’elle :<br />
+Fuyons, dit-il en soi, j’oublîrai cette Belle,</p>
+<p>Tout passe, et même un jour ses larmes passeront :<br />
+Voyons ce que l’absence et le temps produiront.<br />
+À ces mots il s’embarque ; et, quittant le rivage,<br />
+Il court de mer en mer, aborde en lieu sauvage ;<br />
+Trouve des malheureux de leurs fers échappés,<br />
+Et sur le bord d’un bois à chasser occupés.<br />
+Télamon, de ce nombre, avait brisé sa chaîne ;<br />
+Aux regards de Damon il se présente à peine,<br />
+Que son air, sa fierté, son esprit, tout enfin<br />
+Fait qu’à l’abord Damon admire son destin,</p>
+<p>Puis le plaint, puis l’emmène, et puis lui dit sa flamme.<br />
+D’une Esclave, dit-il, je n’ai pu toucher l’âme :<br />
+Elle chérit un mort ! Un mort ! ce qui n’est plus<br />
+L’emporte dans son cœur ! mes vœux sont superflus.<br />
+Là-dessus de Cloris il lui fait la peinture.<br />
+Télamon dans son âme admire l’aventure,<br />
+Dissimule, et se laisse emmener au séjour<br />
+Où Cloris lui conserve un si parfait amour.<br />
+Comme il voulait cacher avec soin sa fortune,<br />
+Nulle peine pour lui n’était vile et commune.<br />
+On apprend leur retour et leur débarquement ;</p>
+<p>Cloris se présentant à l’un et l’autre Amant,<br />
+Reconnaît Télamon sous un faix qui l’accable ;<br />
+Ses chagrins le rendaient pourtant méconnaissable ;<br />
+Un œil indifferent à le voir eût erré,<br />
+Tant la peine et l’amour l’avaient défiguré.<br />
+Le fardeau qu’il portait ne fut qu’un vain obstacle ;<br />
+Cloris le reconnaît, et tombe à ce spectacle ;<br />
+Elle perd tous ses sens et de honte et d’amour.<br />
+Télamon d’autre part tombe presque à son tour ;<br />
+On demande à Cloris la cause de sa peine ?<br />
+Elle la dit, ce fut sans s’attirer de haine ;</p>
+<p>Son récit ingénu redoubla la pitié<br />
+Dans des cœurs prévenus d’une juste amitié.<br />
+Damon dit que son zèle avait changé de face.<br />
+On le crut. Cependant, Quoiqu’on dise et qu’on fasse,<br />
+D’un triomphe si doux l’honneur et le plaisir<br />
+Ne se perd qu’en laissant des restes de désir.<br />
+On crut pourtant Damon. Il restreignit son zèle<br />
+À sceller de l’Hymen une union si belle ;<br />
+Et par un sentiment à qui rien n’est égal,<br />
+ll pria ses parents de doter son Rival.<br />
+Il l’obtint, renonçant dès-lors à l’Hyménée.<br />
+Le soir étant venu de l’heureuse journée,</p>
+<p>Les noces se faisaient à l’ombre d’un ormeau :<br />
+L’enfant d’un voisin vit s’y percher un corbeau :<br />
+Il fait partir de l’arc une flèche maudite,<br />
+Perce les deux Époux d’une atteinte subite.<br />
+Cloris mourut du coup, non sans que son Amant<br />
+Attirât ses regards en ce dernier moment.<br />
+Il s’écrie en voyant finir ses destinées ;<br />
+Quoi ! la parque a tranché le cours de ses années ?<br />
+Dieux, qui l’avez voulu, ne suffisait-il pas<br />
+Que la haine du Sort avançât mon trépas ?<br />
+En achevant ces mots il acheva de vivre ;</p>
+<p>Son amour, non le coup, l’obligea de la suivre ;<br />
+Blessé légèrement il passa chez les morts ;<br />
+Le Styx vit nos Époux accourir sur ses bords ;<br />
+Même accident finit leurs précieuses trames ;<br />
+Même tombe eut leurs corps, même séjour leurs âmes.<br />
+Quelques-uns ont écrit (mais ce fait est peu sûr)<br />
+Que chacun d’eux devint statue et marbre dur.<br />
+Le couple infortuné face à face repose,<br />
+Je ne garantis point cette métamorphose ;<br />
+On en doute. On le croit plus que vous ne pensez,<br />
+Dit Climène ; et cherchant dans les siècles passés</p>
+<p>Quelque exemple d’amour et de vertu parfaite,<br />
+Tout ceci me fut dit par le sage Interprète.<br />
+J’admirai, je plaignis ces Amants malheureux ;<br />
+On les allait unir ; tout concourait pour eux ;<br />
+Ils touchaient au moment ; l’attente en était sûre ;<br />
+Hélas ! il n’en est point de telle en la nature ;<br />
+Sur le point de jouir tout s’enfuit de nos mains ;<br />
+Les Dieux se font un jeu de l’espoir des humains.<br />
+Laissons, reprit Iris, cette triste pensée.<br />
+La Fête est vers sa fin, grâce au Ciel avancée ;</p>
+<p>Et nous avons passé tout ce temps en récits,<br />
+Capables d’affliger les moins sombres esprits !<br />
+Effaçons, s’il se peut, leur image funeste :<br />
+Je prétends de ce jour mieux employer le reste ;<br />
+Et dire un changement, non de corps, mais de cœur :<br />
+Le miracle en est grand ; Amour en fut l’auteur :<br />
+Il en fait tous les jours de diverse manière.<br />
+Je changerai de style en changeant de matière.</p>
+<p>Zoon plaisait aux yeux, mais ce n’est pas assez :<br />
+Son peu d’esprit, son humeur sombre,</p>
+<p>Rendaient ces talents mal placés :<br />
+Il fuyait les cités, il ne cherchait que l’ombre,<br />
+Vivait parmi les bois concitoyen des ours,<br />
+Et passait sans aimer les plus beaux de ses jours.<br />
+Nous avons condamné l’amour, m’allez-vous dire ;<br />
+J’en blâme en nous l’excès ; mais je n’approuve pas<br />
+Qu’insensible aux plus doux appas<br />
+Jamais un homme ne soupire.<br />
+hé quoi, ce long repos est-il d’un si grand prix ?<br />
+Les morts sont donc heureux ; ce n’est pas mon avis.<br />
+Je veux des passions ; et si l’état le pire<br />
+Est le néant, je ne sais point<br />
+De néant plus complet qu’un cœur froid à ce point.</p>
+<p>Zoon n’aimant donc rien, ne s’aimant pas lui-même,<br />
+Vit Iole endormie, et le voilà frappé ;<br />
+Voilà son cœur développé.<br />
+Amour par son savoir suprême,<br />
+Ne l’eut pas fait amant qu’il en fit un héros<br />
+Zoon rend grâce au Dieu qui troublait son repos :<br />
+Il regarde en tremblant cette jeune merveille.<br />
+À la fin Iole s’éveille :<br />
+Surprise et dans l’étonnement,<br />
+Elle veut fuir, mais son Amant<br />
+L’arrête, et lui tient ce langage :<br />
+Rare et charmant objet, pourquoi me fuïez-vous ?<br />
+Je ne suis plus celui qu’on trouvait si sauvage :<br />
+C’est l’effet de vos traits, aussi puissants que doux :</p>
+<p>Ils m’ont l’âme et l’esprit, et la raison donnée.<br />
+Souffrez que vivant sous vos lois<br />
+J’emploie à vous servir des biens que je vous dois.<br />
+Iole à ce discours encor plus étonnée,<br />
+Rougit, et sans répondre elle court au hameau,<br />
+Et raconte à chacun ce miracle nouveau.<br />
+Ses Compagnes d’abord s’assemblent autour d’elle :<br />
+Zoon suit en triomphe, et chacun applaudit.<br />
+Je ne vous dirai point, mes sœurs, tout ce qu’il fit,<br />
+Ni ses soins pour plaire à la Belle.<br />
+Leur hymen se conclut : un Satrape voisin,<br />
+Le propre jour de cette fête,<br />
+Enlève à Zoon sa conquête.</p>
+<p>On ne soupçonnait point qu’il eût un tel dessein.<br />
+Zoon accourt au bruit, recouvre ce cher gage,<br />
+Poursuit le ravisseur, et le joint ,et l’engage<br />
+En un combat de main à main.<br />
+Iole en est le prix, aussi bien que le juge.<br />
+Le Satrape vaincu trouve encor du refuge<br />
+En la bonté de son rival.<br />
+Hélas ! cette bonté lui devint inutile ;<br />
+Il mourut du regret de cet hymen fatal.<br />
+Aux plus infortunez la tombe sert d’asile.<br />
+Il prit pour héritière, en finissant ses jours,<br />
+Iole, qui moüilla de pleurs son Mausolée.<br />
+Que sert-il d’être plaint quand l’âme est envolée ?<br />
+Ce Satrape eût mieux fait d’oublier ses amours.</p>
+<p>La jeune Iris à peine achevait cette histoire ;<br />
+Et ses sœurs avoüoient qu’un chemin à la gloire<br />
+C’est l’amour : on fait tout pour se voir estimé ;<br />
+Est-il quelque chemin plus court pour être aimé ?<br />
+Quel charme de s’ouïr louer par une bouche<br />
+Qui même sans s’ouvrir nous enchante et nous touche.<br />
+Ainsi disaient ces Sœurs. Un orage soudain<br />
+Jette un secret remords dans leur profane sein.<br />
+Bacchus entre, et sa cour, confus et long cortège :<br />
+Où sont, dit-il, ces Sœurs à la main sacrilège ?<br />
+Que Pallas les défende, et vienne en leur faveur</p>
+<p>Opposer son Ægide à ma juste fureur :<br />
+Rien ne m’empêchera de punir leur offence :<br />
+Voyez :; et qu’on se rie après de ma puissance.<br />
+Il n’eut pas dit, qu’on vit trois monstres au plancher,<br />
+Ailez, noirs et velus, en un coin s’attacher.<br />
+On cherche les trois Sœurs ; on n’en voit nulle trace :<br />
+Leurs métiers sont brisez, on élève en leur place<br />
+Une Chapelle au Dieu, père du vrai Nectar.<br />
+Pallas a beau se plaindre, elle a beau prendre part<br />
+Au destin de ces Sœurs par elle protégées.<br />
+Quand quelque Dieu voyant ses bontez négligées,</p>
+<p>Nous fait sentir son ire ; un autre n’y peut rien :<br />
+L’Olympe s’entretient en paix par ce moyen.<br />
+Profitons, s’il se peut, d’un si fameux exemple.<br />
+Chômons : c’est faire assez qu’aller de Temple en Temple<br />
+Rendre à chaque Immortel les vœux qui lui sont dus :<br />
+Les jours donnez aux Dieux ne sont jamais perdus.</p>
+</div></div></div>    </div>
+  
+  
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-21" class="block block-block  block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <center><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables bottom (336 x 280) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="9360544741"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->          </div>
+
+          
+      </section> <!-- /content-inner /content -->
+
+       <!-- /sidebar-first -->
+
+              <aside id="sidebar-second" class="column sidebar second">
+            <div id="block-block-22" class="block block-block  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables side (300 x 250) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="2696732340"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-fables_contextuel-block_1" class="block block-views  block-even clearfix">
+  <div class="block-inner">
+
+              <h2 class="block-title"><a href="../node/257"><b>Autres Fables du Livre 12</b></a></h2>
+        
+
+    <div class="content" >
+      <div class="view view-fables-contextuel view-id-fables_contextuel view-display-id-block_1 view-dom-id-38cff76463004131c0adc2862fa17ef9">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/245">Le Loup et le Renard</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/219">Le Cerf malade</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/220">La Chauve-Souris, le Buisson et le Canard</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/216">Du Thésauriseur et du Singe</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/225">Le Renard, les Mouches et le Hérisson</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/223">L’Aigle et la Pie</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/227">Le Corbeau, la Gazelle, la Tortue et le Rat</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/238">La Matrone d’Éphèse</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/228">La Forêt et le Bûcheron</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/230">Le Renard et les Poulets d’Inde</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/229">Le Renard, le Loup et le Cheval</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/233">L’Eléphant, et le Singe de Jupiter</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/231">Le Singe</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/236">Daphnis et Alcimadure</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/234">Un Fou et un Sage</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/232">Le Philosophe scythe</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/241">Le Juge arbitre, l’Hospitalier et le Solitaire</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/239">Belphégor</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/226">L’Amour et la Folie</a></span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/237">Philémon et Baucis</a></span>  </div>  </div>
+  <div class="views-row views-row-21 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/217">Les deux Chèvres</a></span>  </div>  </div>
+  <div class="views-row views-row-22 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/235">Le Renard anglais</a></span>  </div>  </div>
+  <div class="views-row views-row-23 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/218">Le Vieux Chat et la jeune Souris</a></span>  </div>  </div>
+  <div class="views-row views-row-24 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/224">Le Milan, le Roi et le Chasseur</a></span>  </div>  </div>
+  <div class="views-row views-row-25 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/214">Les Compagnons d’Ulysse</a></span>  </div>  </div>
+  <div class="views-row views-row-26 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/222">L’Écrevisse et sa Fille</a></span>  </div>  </div>
+  <div class="views-row views-row-27 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/215">Le Chat et les deux Moineaux</a></span>  </div>  </div>
+  <div class="views-row views-row-28 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/221">La Querelle des chiens et des chats et celle des chats et des souris</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-23" class="block block-block  block-odd last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Liens pages side (180x90) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="1196319546"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->        </aside>
+       <!-- /sidebar-second -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <footer id="footer">
+      <div class="container">
+        <div id="block-block-1" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <p>© 2011-2012  Les <a href="../index.html">Fables</a>- <a href="../contact" rel="nofollow">Contact</a></p>
+    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->      </div>
+    </footer> <!-- /footer -->
+  
+</div> <!-- /page -->
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_TulgkrgWVFMvT_7EUbhvXcXhDpJ_hCuecBJqYsBLPrA.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2021-11-10 06:31:57, expires @ 2021-12-08 06:31:57, lifetime 4 semaines -->

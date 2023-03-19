@@ -1,0 +1,339 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Fable de la Fontaine n° 13 du livre 2. Un Astrologue un jour se laissa choir Au fonds d’un puits. On lui dit : Pauvre bête, Tandis qu’à ..." />
+<meta content="L’Astrologue qui se laisse tomber dans un puits " about="/livre-2/l-astrologue-qui-se-laisse-tomber-dans-un-puits" property="dc:title" />
+<link rel="canonical" href="../node/36" />
+<link rel="canonical" href="../node/36" />
+<link rel="shortlink" href="../node/36" />
+  <title>L’Astrologue qui se laisse tomber dans un puits  - Les Fables</title>
+  <link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_e7qj41GnjxKpIpMPFuVmhMpkkXUS5XLPoQ3MoViceuw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_sPhh9xnk8vomHEPsUKS8iYhgBh3GKkzq_knbrldjWNw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_E_iKrrQQCzS34Ph_0dV0ePpU8NJ9wrEnj9dXHVQ3JWU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print" />
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_wNCDgxTn6tYeEcQcd3hWnphRvjMVV8JTdRc-JOzQJws.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_zWZ1dbyg6WuqvSiANMHnRmLjz6BPJKk3sz8KNNylQqM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"ZXQy6UD22XE59KBhX1zzx8wpAR9dTjh0hb-3LXef9NM","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_11m_do3sh05v702XaB98UtxkNIDt_AhsQ42LNa6Uxiw.js":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/all\/themes\/basic\/css\/normalize.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EDes cookies sont utilis\u00e9s sur ce site.En cliquant vous accepter l\u0027utilisation de ces cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOui\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/","popup_link_new_window":0,"popup_position":1,"popup_language":"fr","domain":"","cookie_lifetime":"100"}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-36 node-type-fable role-anonymous-user with-subnav page-livre-2-l-astrologue-qui-se-laisse-tomber-dans-un-puits section-livre-2" >
+  <div id="skip">
+    <a href="../node/36#content">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+              <a href="../index.html" title="Accueil" rel="home" id="logo">
+          <img src="../sites/www.lesfables.fr/files/les-fables-de-la-fontaine_0.png" alt="Accueil"/>
+        </a>
+      
+              <div id="name-and-slogan">
+
+                                    <div id="site-name">
+                <a href="../index.html" title="Accueil" rel="home">Les Fables de la Fontaine</a>
+              </div>
+                      
+          
+        </div>
+      
+          </div>
+  </header> <!-- /header -->
+
+      <nav id="navigation" class="menu with-primary">
+      <div class="container">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-218 fables first"><a href="../index.html" title="">Fables</a></li>
+<li class="menu-1235 jean-de-la-fontaine"><a href="../node/243">Jean de la Fontaine</a></li>
+<li class="menu-1744 actualit-s"><a href="../node/259">Actualités</a></li>
+<li class="menu-1794 quizz last"><a href="../node/268">Quizz</a></li>
+</ul>              </div>
+    </nav> <!-- /navigation -->
+  
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main">
+    <div class="container">
+      <section id="content">
+  
+                      <div id="content-header">
+
+              <h2 class="element-invisible">Vous êtes ici</h2><div class="breadcrumb"><span class="inline odd first" ><a href="../index.html">Fables de la Fontaine</a></span> › <span class="inline even" ><a href="../node/247">Livre II</a></span> › <span class="inline odd last" >L’Astrologue qui se laisse tomber dans un puits</span></div>
+              
+              
+                              <h1 class="title">L’Astrologue qui se laisse tomber dans un puits </h1>
+              
+                                          
+                              <div class="tabs"></div>
+              
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+              <div id="block-system-main" class="block block-system  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="ds-2col-stacked-fluid node node-fable node-odd view-mode-full group-one-column clearfix">
+
+  
+  
+      <div class="group-left">
+      <div class="field field-name-field-num-ro-de-fable field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Fable n° 13</div></div></div><div class="field field-name-field-livre field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Livre II</div></div></div><div class="field field-name-field-adsense-top-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0536312029867177";
+    google_ad_slot = "5929400343";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- Top fables (728x90) -->
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br/></div></div></div><div class="field field-name-field-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Un Astrologue un jour se laissa choir<br />
+Au fonds d’un puits. On lui dit : Pauvre bête,<br />
+Tandis qu’à peine à tes pieds tu peux voir,<br />
+Penses-tu lire au dessus de ta tête ?<br />
+Cette aventure en soi, sans aller plus avant,<br />
+Peut servir de leçon à la plupart des hommes.<br />
+Parmi ce que de gens sur la terre nous sommes,<br />
+Il en est peu qui fort souvent<br />
+Ne se plaisent d’entendre dire,<br />
+Qu’au Livre du Destin les mortels peuvent lire.<br />
+Mais ce Livre qu’Homère et les siens ont chanté,<br />
+Qu’est-ce que le hasard parmi l’Antiquité ?<br />
+Et parmi nous la Providence ?<br />
+Or du hasard il n’est point de science.<br />
+S’il en était, on aurait tort<br />
+De l’appeler hasard, ni fortune, ni sort,<br />
+Toutes choses très-incertaines.<br />
+Quant aux volontés souveraines<br />
+De celui qui fait tout, et rien qu’avec dessein,<br />
+Qui les sait que lui seul ? comment lire en son sein ?<br />
+Aurait-il imprimé sur le front des étoiles<br />
+Ce que la nuit des temps enferme dans ses voiles ?<br />
+À quelle utilité, pour exercer l’esprit<br />
+De ceux qui de la Sphère et du Globe ont écrit ?<br />
+Pour nous faire éviter des maux inévitables ?<br />
+Nous rendre dans les biens de plaisirs incapables ?<br />
+Et causant du dégoût pour ces biens prévenus,<br />
+Les convertir en maux devant qu’ils soient venus ?<br />
+C’est erreur, ou plutôt c’est crime de le croire.<br />
+Le Firmament se meut ; les Astres font leur cours ;<br />
+Le Soleil nous luit tous les jours ;<br />
+Tous les jours sa clarté succède à l’ombre noire ;<br />
+Sans que nous en puissions autre chose inférer<br />
+Que la nécessité de luire et d’éclairer,<br />
+D’amener les saisons, de mûrir les semences,<br />
+De verser sur les corps certaines influences.<br />
+Du reste, en quoi répond au sort toujours divers<br />
+Ce train toujours égal dont marche l’Univers ?<br />
+Charlatans, faiseurs d’horoscope,<br />
+Quittez les Cours des Princes de l’Europe.<br />
+Emmenez avec vous les souffleurs tout d’un temps.<br />
+Vous ne méritez pas plus de foi que ces gens.<br />
+Je m’emporte un peu trop ; revenons à l’histoire<br />
+De ce Spéculateur, qui fut contraint de boire.<br />
+Outre la vanité de son art mensonger,<br />
+C’est l’image de ceux qui bâillent aux chimères,<br />
+Cependant qu’ils sont en danger,<br />
+Soit pour eux, soit pour leurs affaires.</p>
+</div></div></div>    </div>
+  
+  
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-21" class="block block-block  block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <center><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables bottom (336 x 280) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="9360544741"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->          </div>
+
+          
+      </section> <!-- /content-inner /content -->
+
+       <!-- /sidebar-first -->
+
+              <aside id="sidebar-second" class="column sidebar second">
+            <div id="block-cck_blocks-field_image" class="block block-cck-blocks  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="field field-name-field-image field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><img typeof="foaf:Image" src="../sites/www.lesfables.fr/files/styles/fable/public/l-astrologue-qui-se-laisse-tomber-dans-un-puits.png" width="250" height="194" alt="L’Astrologue qui se laisse tomber dans un puits " title="L’Astrologue qui se laisse tomber dans un puits " /></div></div></div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-22" class="block block-block  block-even clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables side (300 x 250) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="2696732340"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-fables_contextuel-block_1" class="block block-views  block-odd clearfix">
+  <div class="block-inner">
+
+              <h2 class="block-title"><a href="../node/247"><b>Autres Fables du Livre 2</b></a></h2>
+        
+
+    <div class="content" >
+      <div class="view view-fables-contextuel view-id-fables_contextuel view-display-id-block_1 view-dom-id-81e08da28c9d2eb62d7f9b343bdc29d3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/43">Testament expliqué par Ésope</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/24">Contre ceux qui ont le goût difficile </a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/32">Le Lion et le Moucheron </a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/30">La Lice et sa Compagne </a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/27">Les deux Taureaux et une Grenouille </a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/34">Le Lion et le Rat </a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/40">Le Paon se plaignant à Junon </a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/39">Le Corbeau voulant imiter l’Aigle </a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/26">Le Loup plaidant contre le Renard par devant le Singe </a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/33">L’Âne chargé d’éponges et l’Âne chargé de sel </a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/35">La Colombe et la Fourmi </a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/38">Le Coq et le Renard </a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/37">Le Lièvre et les Grenouilles </a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/29">L’Oiseau blessé d’une flèche</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/28">La Chauve-Souris et les deux Belettes</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/41">La Chatte métamorphosée en femme </a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/25">Conseil tenu par les Rats</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/31">L’Aigle et l’Escarbot </a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/42">Le Lion et l’Âne chassant </a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-23" class="block block-block  block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Liens pages side (180x90) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="1196319546"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->        </aside>
+       <!-- /sidebar-second -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <footer id="footer">
+      <div class="container">
+        <div id="block-block-1" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <p>© 2011-2012  Les <a href="../index.html">Fables</a>- <a href="../contact" rel="nofollow">Contact</a></p>
+    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->      </div>
+    </footer> <!-- /footer -->
+  
+</div> <!-- /page -->
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_TulgkrgWVFMvT_7EUbhvXcXhDpJ_hCuecBJqYsBLPrA.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2021-11-10 06:44:28, expires @ 2021-12-08 06:44:28, lifetime 4 semaines -->

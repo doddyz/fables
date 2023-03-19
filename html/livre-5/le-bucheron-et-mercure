@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Fable de la Fontaine n° 1 du livre 5. Votre goût a servi de règle à mon ouvrage. J’ai tenté les moyens d’acquérir son suffrage. Vous ..." />
+<meta content="Le Bûcheron et Mercure" about="/livre-5/le-bucheron-et-mercure" property="dc:title" />
+<link rel="canonical" href="../node/84" />
+<link rel="canonical" href="../node/84" />
+<link rel="shortlink" href="../node/84" />
+  <title>Le Bûcheron et Mercure - Les Fables</title>
+  <link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_e7qj41GnjxKpIpMPFuVmhMpkkXUS5XLPoQ3MoViceuw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_sPhh9xnk8vomHEPsUKS8iYhgBh3GKkzq_knbrldjWNw.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_E_iKrrQQCzS34Ph_0dV0ePpU8NJ9wrEnj9dXHVQ3JWU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print" />
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_wNCDgxTn6tYeEcQcd3hWnphRvjMVV8JTdRc-JOzQJws.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_zWZ1dbyg6WuqvSiANMHnRmLjz6BPJKk3sz8KNNylQqM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"3fUgrI5lIzhQ7BFOgHatuOHXukpfmCFcsocSuwwi5Ec","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_11m_do3sh05v702XaB98UtxkNIDt_AhsQ42LNa6Uxiw.js":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/modules\/ds\/layouts\/ds_2col_stacked_fluid\/ds_2col_stacked_fluid.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/all\/themes\/basic\/css\/normalize.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EDes cookies sont utilis\u00e9s sur ce site.En cliquant vous accepter l\u0027utilisation de ces cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOui\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/","popup_link_new_window":0,"popup_position":1,"popup_language":"fr","domain":"","cookie_lifetime":"100"}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-84 node-type-fable role-anonymous-user with-subnav page-livre-5-le-bucheron-et-mercure section-livre-5" >
+  <div id="skip">
+    <a href="../node/84#content">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+              <a href="../index.html" title="Accueil" rel="home" id="logo">
+          <img src="../sites/www.lesfables.fr/files/les-fables-de-la-fontaine_0.png" alt="Accueil"/>
+        </a>
+      
+              <div id="name-and-slogan">
+
+                                    <div id="site-name">
+                <a href="../index.html" title="Accueil" rel="home">Les Fables de la Fontaine</a>
+              </div>
+                      
+          
+        </div>
+      
+          </div>
+  </header> <!-- /header -->
+
+      <nav id="navigation" class="menu with-primary">
+      <div class="container">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-218 fables first"><a href="../index.html" title="">Fables</a></li>
+<li class="menu-1235 jean-de-la-fontaine"><a href="../node/243">Jean de la Fontaine</a></li>
+<li class="menu-1744 actualit-s"><a href="../node/259">Actualités</a></li>
+<li class="menu-1794 quizz last"><a href="../node/268">Quizz</a></li>
+</ul>              </div>
+    </nav> <!-- /navigation -->
+  
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main">
+    <div class="container">
+      <section id="content">
+  
+                      <div id="content-header">
+
+              <h2 class="element-invisible">Vous êtes ici</h2><div class="breadcrumb"><span class="inline odd first" ><a href="../index.html">Fables de la Fontaine</a></span> › <span class="inline even" ><a href="../node/250">Livre V</a></span> › <span class="inline odd last" >Le Bûcheron et Mercure</span></div>
+              
+              
+                              <h1 class="title">Le Bûcheron et Mercure</h1>
+              
+                                          
+                              <div class="tabs"></div>
+              
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+              <div id="block-system-main" class="block block-system  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="ds-2col-stacked-fluid node node-fable node-odd view-mode-full group-one-column clearfix">
+
+  
+  
+      <div class="group-left">
+      <div class="field field-name-field-num-ro-de-fable field-type-number-integer field-label-hidden"><div class="field-items"><div class="field-item even">Fable n° 1</div></div></div><div class="field field-name-field-livre field-type-taxonomy-term-reference field-label-hidden"><div class="field-items"><div class="field-item even">Livre V</div></div></div><div class="field field-name-field-adsense-top-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><center>
+<script type="text/javascript">
+    google_ad_client = "ca-pub-0536312029867177";
+    google_ad_slot = "5929400343";
+    google_ad_width = 728;
+    google_ad_height = 90;
+</script>
+<!-- Top fables (728x90) -->
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</center>
+<br/></div></div></div><div class="field field-name-field-fable field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>Votre goût a servi de règle à mon ouvrage.<br />
+J’ai tenté les moyens d’acquérir son suffrage.<br />
+Vous voulez qu’on évite un soin trop curieux,<br />
+Et des vains ornements l’effort ambitieux ;<br />
+Je le veux comme vous : cet effort ne peut plaire.<br />
+Un auteur gâte tout quand il veut trop bien faire.<br />
+Non qu’il faille bannir certains traits délicats :<br />
+Vous les aimez, ces traits, et je ne les hais pas.<br />
+Quant au principal but qu’Ésope se propose,<br />
+J’y tombe au moins mal que je puis.<br />
+Enfin, si dans ces vers, je ne plais et n’instruis,<br />
+Il ne tient pas à moi ; c’est toujours quelque chose.<br />
+Comme la force est un point<br />
+Dont je ne me pique point,<br />
+Je tâche d’y tourner le vice en ridicule,<br />
+Ne pouvant l’attaquer avec des bras d’Hercule.<br />
+C’est là tout mon talent ; je ne sais s’il suffit.<br />
+Tantôt je peins en un récit<br />
+La sotte vanité jointe avecque l’envie,<br />
+Deux pivots sur qui roule aujourd’hui notre vie :<br />
+Tel est ce chétif animal<br />
+Qui voulut en grosseur au boeuf se rendre égal.<br />
+J’oppose quelquefois, par une double image,<br />
+Le vice à la vertu, la sottise au bon sens,<br />
+Les agneaux aux loups ravissants,<br />
+La mouche à la fourmi, faisant de cet ouvrage<br />
+Une ample comédie à cent actes divers,<br />
+Et dont la scène est l’Univers.<br />
+Hommes, dieux, animaux, tout y fait quelque rôle,<br />
+Jupiter comme un autre. Introduisons celui<br />
+Qui porte de sa part aux belles la parole :<br />
+Ce n’est pas de cela qu’il s’agit aujourd’hui.<br />
+Un bûcheron perdit son gagne-pain,<br />
+C’est sa cognée ; et la cherchant en vain,<br />
+Ce fut pitié là-dessus de l’entendre.<br />
+Il n’avait pas des outils à revendre :<br />
+Sur celui-ci roulait tout son avoir.<br />
+Ne sachant donc où mettre son espoir,<br />
+Sa face était de pleurs toute baignée :<br />
+« Ô ma cognée ! ô ma pauvre cognée !<br />
+S’écriait-il, Jupiter, rends-la-moi ;<br />
+Je tiendrai l’être encore un coup de toi. »<br />
+Sa plainte fut de l’Olympe entendue.<br />
+Mercure vient. « Elle n’est pas perdue,<br />
+Lui dit ce dieu, la connaîtrais-tu bien ?<br />
+Je crois l’avoir près d’ici rencontrée. »<br />
+Lors une d’or à l’homme étant montrée,<br />
+Il répondit : « Je n’y demande rien. »<br />
+Une d’argent succède à la première,<br />
+Il la refuse. Enfin une de bois :<br />
+« Voilà, dit-il, la mienne cette fois ;<br />
+Je suis content si j’ai cette dernière.<br />
+– Tu les auras, dit le Dieu, toutes trois.<br />
+Ta bonne foi sera récompensée.<br />
+– En ce cas-là je les prendrai », dit-il.<br />
+L’histoire en est aussitôt dispersée ;<br />
+Et boquillons de perdre leur outil,<br />
+Et de crier pour se le faire rendre.<br />
+Le roi des Dieux ne sait auquel entendre.<br />
+Son fils Mercure aux criards vient encore ;<br />
+À chacun d’eux il en montre une d’or.<br />
+Chacun eût cru passer pour une bête<br />
+De ne pas dire aussitôt : « La voilà ! »<br />
+Mercure, au lieu de donner celle-là,<br />
+Leur en décharge un grand coup sur la tête.<br />
+Ne point mentir, être content du sien,<br />
+C’est le plus sûr : cependant on s’occupe<br />
+À dire faux pour attraper du bien.<br />
+Que sert cela ? Jupiter n’est pas dupe. </p>
+</div></div></div>    </div>
+  
+  
+  </div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-21" class="block block-block  block-even last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <center><script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables bottom (336 x 280) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="9360544741"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->          </div>
+
+          
+      </section> <!-- /content-inner /content -->
+
+       <!-- /sidebar-first -->
+
+              <aside id="sidebar-second" class="column sidebar second">
+            <div id="block-block-22" class="block block-block  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Fables side (300 x 250) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:250px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="2696732340"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-fables_contextuel-block_1" class="block block-views  block-even clearfix">
+  <div class="block-inner">
+
+              <h2 class="block-title"><a href="../node/250"><b>Autres Fables du Livre 5</b></a></h2>
+        
+
+    <div class="content" >
+      <div class="view view-fables-contextuel view-id-fables_contextuel view-display-id-block_1 view-dom-id-e5340ebb120905b5756bdf6db8bcb577">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/97">L’Âne portant des reliques</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/104">L’Âne vêtu de la peau du Lion</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/102">Le Lion s’en allant en guerre</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/101">L’Aigle et le Hibou</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/99">Le Serpent et la Lime</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/100">Le Lièvre et la Perdrix</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/96">La Poule aux œufs d’or</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/92">Le Laboureur et ses Enfants</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/103">L’Ours et les deux Compagnons</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/86">Le Petit Poisson et le Pêcheur</a></span>  </div>  </div>
+  <div class="views-row views-row-11 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/87">Les Oreilles du Lièvre</a></span>  </div>  </div>
+  <div class="views-row views-row-12 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/88">Le Renard ayant la queue coupée</a></span>  </div>  </div>
+  <div class="views-row views-row-13 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/93">La Montagne qui accouche</a></span>  </div>  </div>
+  <div class="views-row views-row-14 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/94">La Fortune et le jeune Enfant</a></span>  </div>  </div>
+  <div class="views-row views-row-15 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/90">Le Satyre et le Passant</a></span>  </div>  </div>
+  <div class="views-row views-row-16 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/89">La Vieille et les deux Servantes</a></span>  </div>  </div>
+  <div class="views-row views-row-17 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/91">Le Cheval et le Loup</a></span>  </div>  </div>
+  <div class="views-row views-row-18 views-row-even">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/95">Les Médecins</a></span>  </div>  </div>
+  <div class="views-row views-row-19 views-row-odd">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/85">Le Pot de terre et le Pot de fer</a></span>  </div>  </div>
+  <div class="views-row views-row-20 views-row-even views-row-last">
+      
+  <div class="views-field views-field-title">        <span class="field-content"><a href="../node/98">Le Cerf et la Vigne</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-23" class="block block-block  block-odd last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Liens pages side (180x90) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="1196319546"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->        </aside>
+       <!-- /sidebar-second -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <footer id="footer">
+      <div class="container">
+        <div id="block-block-1" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <p>© 2011-2012  Les <a href="../index.html">Fables</a>- <a href="../contact" rel="nofollow">Contact</a></p>
+    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->      </div>
+    </footer> <!-- /footer -->
+  
+</div> <!-- /page -->
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_TulgkrgWVFMvT_7EUbhvXcXhDpJ_hCuecBJqYsBLPrA.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2021-11-16 03:06:36, expires @ 2021-12-14 03:06:36, lifetime 4 semaines -->

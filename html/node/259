@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ og: http://ogp.me/ns# rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="Toutes les news et actualités à propos des fables de la Fontaine. ..." />
+<meta content="Actualités des Fables de la Fontaine" about="/actualite" property="dc:title" />
+<link rel="canonical" href="259" />
+<link rel="canonical" href="259" />
+<link rel="shortlink" href="259" />
+  <title>Actualités des Fables de la Fontaine</title>
+  <link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css__9zsakYbWSOTLroLLtWO9P7zLJXhXtSJo2OgXN4wIrU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_botNHIYRQPys-RH2iA3U4LbV9bPNRS64tLAs8ec1ch8.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_e7qj41GnjxKpIpMPFuVmhMpkkXUS5XLPoQ3MoViceuw.css" media="all" />
+<style type="text/css" media="all">
+<!--/*--><![CDATA[/*><!--*/
+#sliding-popup.sliding-popup-top{background:#0779BF;}#sliding-popup .popup-content #popup-text h2,#sliding-popup .popup-content #popup-text p{color:#ffffff !important;}
+
+/*]]>*/-->
+</style>
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_y6G2-fLqoDcuB7VpTpyaPAypOfxKSb3qVKO7I9EdEug.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_E_iKrrQQCzS34Ph_0dV0ePpU8NJ9wrEnj9dXHVQ3JWU.css" media="all" />
+<link type="text/css" rel="stylesheet" href="../sites/www.lesfables.fr/files/css/css_mDxCF8ImVBb6oiL7Rq6KarwvxmvDV5PjnhYNE29pt_0.css" media="print" />
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_3jHghlMLrjr9xXAC0JufqSSch3oAbkZstSqYdc4uuck.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_wNCDgxTn6tYeEcQcd3hWnphRvjMVV8JTdRc-JOzQJws.js"></script>
+<script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_zWZ1dbyg6WuqvSiANMHnRmLjz6BPJKk3sz8KNNylQqM.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"basic","theme_token":"AVSagshuGUBWVoeKlTgxyYzHlcNazHIPZWSFoCMQx3s","js":{"sites\/all\/modules\/eu_cookie_compliance\/js\/eu_cookie_compliance.js":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"public:\/\/languages\/fr_11m_do3sh05v702XaB98UtxkNIDt_AhsQ42LNa6Uxiw.js":1,"sites\/all\/themes\/basic\/js\/build\/scripts.js":1,"sites\/all\/themes\/basic\/js\/build\/modernizr.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/user\/user.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/themes\/basic\/css\/tabs.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"0":1,"sites\/all\/modules\/eu_cookie_compliance\/css\/eu_cookie_compliance.css":1,"sites\/all\/themes\/basic\/css\/default.css":1,"sites\/all\/themes\/basic\/css\/layout.css":1,"sites\/all\/themes\/basic\/css\/style.css":1,"sites\/all\/themes\/basic\/css\/normalize.css":1,"sites\/all\/themes\/basic\/css\/print.css":1}},"eu_cookie_compliance":{"popup_enabled":1,"popup_agreed_enabled":0,"popup_hide_agreed":0,"popup_clicking_confirmation":1,"popup_html_info":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content info\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Cp\u003EDes cookies sont utilis\u00e9s sur ce site.En cliquant vous accepter l\u0027utilisation de ces cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button\u0022\u003EOui\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022\u003ENon\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E\n","popup_html_agreed":"\u003Cdiv\u003E\n  \u003Cdiv class =\u0022popup-content agreed\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022\u003E\n      \u003Ch2\u003EThank you for accepting cookies\u003C\/h2\u003E\n\u003Cp\u003EYou can now hide this message or find out more about cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button\u0022\u003EMasquer\u003C\/button\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button\u0022 \u003EPlus d\u0027infos\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/\/","popup_link_new_window":0,"popup_position":1,"popup_language":"fr","domain":"","cookie_lifetime":"100"}});
+//--><!]]>
+</script>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+</head>
+<body class="html not-front not-logged-in one-sidebar sidebar-second page-node page-node- page-node-259 node-type-basic-2 role-anonymous-user with-subnav page-actualite section-actualite" >
+  <div id="skip">
+    <a href="259#content">Jump to Navigation</a>
+  </div>
+    <div id="page" class="page with-navigation">
+
+  <!-- ______________________ HEADER _______________________ -->
+
+  <header id="header">
+    <div class="container">
+              <a href="../index.html" title="Accueil" rel="home" id="logo">
+          <img src="../sites/www.lesfables.fr/files/les-fables-de-la-fontaine_0.png" alt="Accueil"/>
+        </a>
+      
+              <div id="name-and-slogan">
+
+                                    <div id="site-name">
+                <a href="../index.html" title="Accueil" rel="home">Les Fables de la Fontaine</a>
+              </div>
+                      
+          
+        </div>
+      
+          </div>
+  </header> <!-- /header -->
+
+      <nav id="navigation" class="menu with-primary">
+      <div class="container">
+        <ul id="primary" class="links clearfix main-menu"><li class="menu-218 fables first"><a href="../index.html" title="">Fables</a></li>
+<li class="menu-1235 jean-de-la-fontaine"><a href="243">Jean de la Fontaine</a></li>
+<li class="menu-1744 active-trail actualit-s active"><a href="259" class="active-trail active">Actualités</a></li>
+<li class="menu-1794 quizz last"><a href="268">Quizz</a></li>
+</ul>              </div>
+    </nav> <!-- /navigation -->
+  
+  <!-- ______________________ MAIN _______________________ -->
+
+  <div id="main">
+    <div class="container">
+      <section id="content">
+  
+                      <div id="content-header">
+
+              
+              
+              
+                              <h1 class="title">Actualités des Fables de la Fontaine</h1>
+              
+                                          
+                              <div class="tabs"></div>
+              
+              
+            </div> <!-- /#content-header -->
+          
+          <div id="content-area">
+              <div id="block-system-main" class="block block-system  block-odd first clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <article id="node-259" class="node node-basic-2 node-even">
+
+  
+  <div class="content">
+    <div class="field field-name-field-intro-actu field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><b>Toutes les actualités au sujet des fables de la Fontaine que ce soit des événements, spectacles, vidéos, livres, dessins .... Les fables sont éternelles et  intemporelles, elles font partie de l'histoire mais elles sont aussi une formidable source d'inspiration et d'actualités</b>.
+<br></div></div></div>  </div> <!-- /content -->
+
+  
+      <div class="links">
+          </div> <!-- /links -->
+  
+  </article> <!-- /article #node -->    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-views-actualit_s-block" class="block block-views  block-even clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <div class="view view-actualit-s view-id-actualit_s view-display-id-block view-dom-id-a57e75401ad66927f99be54d75927984">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+    <article id="node-267" class="node node-actualit- node-teaser node-odd">
+
+      <header>
+                    <h2 property="dc:title" datatype=""><a href="267">Restaurant  Les Fables de la Fontaine</a></h2>
+            
+      
+          </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><img src="../sites/www.lesfables.fr/files/styles/medium/public/restaurant-les-fables-de-la-fontaine.jpg" width="220" height="147" alt="Restaurant  Les Fables de la Fontaine" title="Restaurant  Les Fables de la Fontaine" class="image-medium"  align="left"  style="padding-right:15px" />
+Savez vous qu'il existe un restaurant à paris du nom des fables de la Fontaine ?<br>
+Il s'agit d'un restaurant spécialisé dans le poisson et la gastronomie du Sud-Ouest au travers d'une cuisine créative mélangeant les saveur de la terre et de la mer.</div></div></div>  </div> <!-- /content -->
+
+  
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore lire-la-suite-de-restaurant-les-fables-de-la-fontaine first last"><a href="267" rel="tag" title="Restaurant  Les Fables de la Fontaine">Lire la suite<span class="element-invisible"> de Restaurant  Les Fables de la Fontaine</span></a></li>
+</ul>    </div> <!-- /links -->
+  
+  </article> <!-- /article #node -->  </div>
+  <div class="views-row views-row-2 views-row-even">
+    <article id="node-266" class="node node-actualit- node-teaser node-even">
+
+      <header>
+                    <h2 property="dc:title" datatype=""><a href="266">Jean de la Fontaine, Timucuha : les fables en kabyle</a></h2>
+            
+      
+          </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><img src="../sites/www.lesfables.fr/files/styles/medium/public/jean-de-la-fontaine-timucuha-les-fables-en-kabyle.jpg" width="220" height="165" alt="Jean de la Fontaine, Timucuha" title="Jean de la Fontaine, Timucuha" class="image-medium"  align="left"  style="padding-right:15px" />
+Amziane Lounès a traduit une vingtaine de fables en kabyle.  Les fables traduites par cet enseignant en langue amazighe n'ont pas été choisies au hasard. En effet  les fables sélectionnées sont celles qui sont le plus en phase avec les rites culturels des lecteurs concernés. <br>Chaque fable  selon lui  est "une leçon de la vie à tirer des expériences des autres".</div></div></div>  </div> <!-- /content -->
+
+  
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore lire-la-suite-de-jean-de-la-fontaine-timucuha-les-fables-en-kabyle first last"><a href="266" rel="tag" title="Jean de la Fontaine, Timucuha : les fables en kabyle">Lire la suite<span class="element-invisible"> de Jean de la Fontaine, Timucuha : les fables en kabyle</span></a></li>
+</ul>    </div> <!-- /links -->
+  
+  </article> <!-- /article #node -->  </div>
+  <div class="views-row views-row-3 views-row-odd">
+    <article id="node-264" class="node node-actualit- node-teaser node-odd">
+
+      <header>
+                    <h2 property="dc:title" datatype=""><a href="264">Les Fables de Starewitch</a></h2>
+            
+      
+          </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><img src="../sites/www.lesfables.fr/files/styles/medium/public/les-fables-de-starewitch_0.jpg" width="220" height="110" alt="Les Fables de Starewitch" title="Les Fables de Starewitch" class="image-medium"  align="left"  style="padding-right:15px" />
+Film d'animation inspiré de cinq fables de Jean de La Fontaine, interprété par Ladislas Starewitch. Les fables concernées sont : Le Lion et le Moucheron, Le Rat de ville et le Rat des champs, Les Grenouilles qui demandent un roi, La Cigale et la Fourmi et Le Lion devenu vieux.</div></div></div>  </div> <!-- /content -->
+
+  
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore lire-la-suite-de-les-fables-de-starewitch first last"><a href="264" rel="tag" title="Les Fables de Starewitch">Lire la suite<span class="element-invisible"> de Les Fables de Starewitch</span></a></li>
+</ul>    </div> <!-- /links -->
+  
+  </article> <!-- /article #node -->  </div>
+  <div class="views-row views-row-4 views-row-even">
+    <article id="node-261" class="node node-actualit- node-teaser node-even">
+
+      <header>
+                    <h2 property="dc:title" datatype=""><a href="261">Je me sers d&#039;animaux pour instruire</a></h2>
+            
+      
+          </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><img src="../sites/www.lesfables.fr/files/styles/medium/public/je-me-sers-d-animaux-pour-instruire_0.jpg" width="220" height="147" alt="Je me sers d&#39;animaux pour instruire" title="Je me sers d&#39;animaux pour instruire" class="image-medium"  align="left"  style="padding-right:15px"/>
+Pièce de théâtre musicale interprété par la compagnie "Aigle de Sable" avec  Alexandre Palma Salas et Milena Vlach.
+C'est l'histoire de <a href="243">Jean de la Fontaine</a> qui est convié à venir interpréter certaines de ses fables dans le cadre d'une réception organisée à son prestige devant une audience de qualité.</div></div></div>  </div> <!-- /content -->
+
+  
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore lire-la-suite-de-je-me-sers-d-039-animaux-pour-instruire first last"><a href="261" rel="tag" title="Je me sers d&#039;animaux pour instruire">Lire la suite<span class="element-invisible"> de Je me sers d&#039;animaux pour instruire</span></a></li>
+</ul>    </div> <!-- /links -->
+  
+  </article> <!-- /article #node -->  </div>
+  <div class="views-row views-row-5 views-row-odd views-row-last">
+    <article id="node-260" class="node node-actualit- node-teaser node-odd">
+
+      <header>
+                    <h2 property="dc:title" datatype=""><a href="260">Fabrice Luchini interprète sur scène les fables de La Fontaine</a></h2>
+            
+      
+          </header>
+  
+  <div class="content">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><img src="../sites/www.lesfables.fr/files/styles/medium/public/fabrice-luchini-interprete-sur-scene-les-fables-de-la-fontaine.jpg" width="220" height="147" alt="Fabrice Luchini" title="Fabrice Luchini" class="image-medium"  align="left"  style="padding-right:15px"/> <b>Fabrice Luchini</b>, un grand passionné des <a href="../index.html">Fables de la Fontaine</a>, interprète à son rythme avec fougue et brio une vingtaine de fables dans son spectacle  "Variations".
+Cet amoureux des textes et de la littérature vous fera redécouvrir en y ajoutant sa touche personnelle,  les meilleures fables qui ont sans aucun doute bercé et influencé votre enfance.
+</div></div></div>  </div> <!-- /content -->
+
+  
+      <div class="links">
+      <ul class="links inline"><li class="node-readmore lire-la-suite-de-fabrice-luchini-interpr-te-sur-sc-ne-les-fables-de-la-fontaine first last"><a href="260" rel="tag" title="Fabrice Luchini interprète sur scène les fables de La Fontaine">Lire la suite<span class="element-invisible"> de Fabrice Luchini interprète sur scène les fables de La Fontaine</span></a></li>
+</ul>    </div> <!-- /links -->
+  
+  </article> <!-- /article #node -->  </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+
+  </div>
+</div> <!-- /block-inner /block --><div id="block-block-12" class="block block-block  block-odd last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <br>
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0536312029867177";
+/* Bannière (468 x 60) */
+google_ad_slot = "8166262740";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<br>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->          </div>
+
+          
+      </section> <!-- /content-inner /content -->
+
+       <!-- /sidebar-first -->
+
+              <aside id="sidebar-second" class="column sidebar second">
+            <div id="block-block-23" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <script async src="http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Liens pages side (180x90) -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:180px;height:90px"
+     data-ad-client="ca-pub-0536312029867177"
+     data-ad-slot="1196319546"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->        </aside>
+       <!-- /sidebar-second -->
+    </div>
+  </div> <!-- /main -->
+
+  <!-- ______________________ FOOTER _______________________ -->
+
+      <footer id="footer">
+      <div class="container">
+        <div id="block-block-1" class="block block-block  block-odd first last clearfix">
+  <div class="block-inner">
+
+            
+
+    <div class="content" >
+      <p>© 2011-2012  Les <a href="../index.html">Fables</a>- <a href="../contact" rel="nofollow">Contact</a></p>
+    </div>
+
+  </div>
+</div> <!-- /block-inner /block -->      </div>
+    </footer> <!-- /footer -->
+  
+</div> <!-- /page -->
+  <script type="text/javascript" src="../sites/www.lesfables.fr/files/js/js_TulgkrgWVFMvT_7EUbhvXcXhDpJ_hCuecBJqYsBLPrA.js"></script>
+</body>
+</html>
+<!-- Page cached by Boost @ 2021-11-15 22:08:44, expires @ 2021-12-13 22:08:44, lifetime 4 semaines -->
