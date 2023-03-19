@@ -1,4 +1,5 @@
-# Fixer fables incompletes: le renard et le corbeau par exemple
+# Display each book within a different tab or different page in multipage app
+# Afficher les fables avec la fonctionnalité expander
 
 import streamlit as st
 from fables import *
@@ -14,22 +15,11 @@ st.set_page_config(
 
 st.title('Les Fables de La Fontaine')
 
-ALL_FABLES = get_fables()
-ALL_FABLES_TITLES = sorted(fables_titles())
-IMAGE_TITLES = images_titles_dict()
+fables_toc(1)
 
-fable = st.sidebar.selectbox('Choisissez une fable', ALL_FABLES_TITLES, 140)
+st.write('\n')
+st.write('\n')
+st.write('\n')
+st.write('\n')
 
-# fable_container = st.expander(fable, True)
-fable_container = st.container()
-
-
-with fable_container:
-    
-    st.header(fable)
-    
-    if IMAGE_TITLES[fable] != '':
-        st.image(IMAGE_TITLES[fable])
-        
-    st.markdown('<br>'.join(ALL_FABLES[fable]), unsafe_allow_html=True)
-    # st.write('\n'.join(ALL_FABLES[fable]))
+display_fables_in_book(1)

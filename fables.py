@@ -3,52 +3,64 @@
 
 # Comments here
 import re
-from collections import defaultdict
+import os
 from bs4 import BeautifulSoup
+import streamlit as st
+
+
+# Good exercise, create all of the fables images using DALLE or better a similar
+# open source/free image generation AI tool
 
 TITLES_PATTERN = re.compile('[A-Za-z’éàèç_\s]+[a-zéàèç]$')
 
-
-with open('fables.html') as f:
-    soup = BeautifulSoup(f, 'html.parser')
-
-def fables_titles():
+# 12 books in total 
+def get_fables_titles(book_number):
     
-    titles = []
-    divs = soup.find_all('div', class_='title')
-    for div in divs:
-        for tag in div.descendants:
-            if isinstance(tag, str) and re.search(TITLES_PATTERN, tag):
-                titles.append(tag)
-    titles = [title.strip() for title in titles]
-    # 1st fable is the 4th element in this list
-    return titles[4:]
+    return sorted(os.listdir('html/livre-' + str(book_number)))
 
-# Work on text and titles at the same time
-def get_fables():
 
-    return_dico = {}
-
-    titles = fables_titles()
-    divs = soup.find_all('div', class_='linegroup')
+# Get fable's text, return as list of lines
+def fable_text(book_number, fable_title):
     
-    # fable divs start at index 1
-    divs = divs[1:]
-
-    # This will have to be manually adjusted as some fables have more than one linegroup div
-    for i, title in enumerate(titles):
+    with open('html/livre-' + str(book_number) + '/' + fable_title) as f:
+        soup = BeautifulSoup(f, 'html.parser')
         
-        lines_of_text = []
-        
-        for elt in divs[i]:
-            
-            if elt.string != '\n':
-                text = str(elt.string)
-                lines_of_text.append(text.strip())
-                
-        return_dico[title] = lines_of_text
+    divs = soup.find_all('div', class_= ['field-item', 'even'])
 
-    return return_dico
+    return divs[3].p.text.split('\n')
+
+
+
+def fables_toc(book_number):
+
+    fables_titles = get_fables_titles(book_number)
+
+    st.header('Livre ' + str(book_number))
+    
+    for fable_title in fables_titles:
+        formatted_title = fable_title.capitalize().replace('-', ' ')
+        st.markdown(f'##### [{formatted_title}](#{fable_title})')
+    
+
+
+def display_one_fable(book_number, fable_title):
+    
+    formatted_title = fable_title.capitalize().replace('-', ' ')
+    st.subheader(f'{formatted_title}')
+    st.markdown('<br>'.join(fable_text(book_number, fable_title)), unsafe_allow_html=True)
+
+
+def display_fables_in_book(book_number):
+    
+    fables_titles = get_fables_titles(book_number)
+    
+    for fable_title in fables_titles:
+        display_one_fable(book_number, fable_title)
+
+
+    
+    
+
             
         
     
