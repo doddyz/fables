@@ -35,11 +35,11 @@ def fables_toc(book_number):
 
     fables_titles = get_fables_titles(book_number)
 
-    st.header('Livre ' + str(book_number))
+    st.sidebar.header('Livre ' + str(book_number))
     
     for fable_title in fables_titles:
         formatted_title = fable_title.capitalize().replace('-', ' ')
-        st.markdown(f'##### [{formatted_title}](#{fable_title})')
+        st.sidebar.markdown(f'##### [{formatted_title}](#{fable_title})', unsafe_allow_html=True)
     
 
 
