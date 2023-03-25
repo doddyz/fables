@@ -15,11 +15,12 @@ st.set_page_config(
 
 st.title('Les Fables de La Fontaine')
 
-fables_toc(1)
+fables_all_tocs()
 
 st.write('\n')
 st.write('\n')
 st.write('\n')
 st.write('\n')
 
-display_fables_in_book(1)
+display_all_fables_all_books()
+
