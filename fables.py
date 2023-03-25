@@ -29,7 +29,7 @@ def fable_text(book_number, fable_title):
         
     divs = soup.find_all('div', class_= ['field-item', 'even'])
 
-    fable_lines = [child.text.replace('\n','<br>') for child in divs[3].children]
+    fable_lines = [re.sub(r'[0-9][0-9][0-9]', '', child.text.replace('\n','<br>')) for child in divs[3].children]
 
     return fable_lines
     
