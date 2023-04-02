@@ -15,12 +15,26 @@ st.set_page_config(
 
 st.title('Les Fables de La Fontaine')
 
-fables_all_tocs()
 
-st.write('\n')
-st.write('\n')
-st.write('\n')
-st.write('\n')
+tab1, tab2, tab3 = st.tabs(["# Livre 1", "# Livre 2", "# Livre 3"])
 
-display_all_fables_all_books()
+
+# fables_all_tocs()
+
+# st.write('\n')
+# st.write('\n')
+# st.write('\n')
+# st.write('\n')
+
+# display_all_fables_all_books()
+
+with tab1:
+    display_fables_in_book(1)
+
+with tab2:
+    display_fables_in_book(2)
+
+with tab3:
+    display_fables_in_book(3)
+
 
