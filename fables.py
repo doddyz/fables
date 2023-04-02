@@ -34,7 +34,6 @@ def fable_text(book_number, fable_title):
     return fable_lines
     
 
-
 def fables_toc(book_number):
 
     fables_titles = get_fables_titles(book_number)
@@ -51,7 +50,6 @@ def fables_all_tocs():
         fables_toc(i)
         
     
-
 def display_one_fable(book_number, fable_title):
     
     formatted_title = fable_title.capitalize().replace('-', ' ')
@@ -65,7 +63,6 @@ def display_fables_in_book(book_number):
     
     for fable_title in fables_titles:
         display_one_fable(book_number, fable_title)
-
 
 
 def display_all_fables_all_books():
